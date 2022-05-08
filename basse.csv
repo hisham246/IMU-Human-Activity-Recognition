@@ -1,0 +1,1804 @@
+drug,drug_id,drug_actif,class_medi,category
+celecoxib,D00567,celecoxib,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+diclofenac,D07816,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+diclofenac potassium,D00903,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+diclofenac sodium,D00904,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+diclofenac diethylamine,D07817,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+diclofenac hydroxyethylpyrrolidine,D07818,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+diclofenac calcium,D07819,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+diflunisal,D00130,diflunisal,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+etodolac,D00315,etodolac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+fenoprofen,D02350,fenoprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+fenoprofen calcium,D00968,fenoprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+flurbiprofen,D00330,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+flurbiprofen axetil,D01475,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+flurbiprofen sodium,D02290,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+esflurbiprofen,D10254,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ibuprofen,D00126,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ibuprofen piconol,D01122,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ibuprofen aluminum,D04490,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ibuprofen lysine,D06606,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ibuprofen arginine salt,D08058,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ibuprofen sodium,D08059,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ibuprofen sodium,D09760,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+indomethacin,D00141,indomethacin,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+indomethacin sodium,D02110,indomethacin,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ketoprofen,D00132,ketoprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ketoprofen lysine,D08102,ketoprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ketoprofen sodium,D08103,ketoprofen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ketorolac,D08104,ketorolac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+ketorolac tromethamine,D00813,ketorolac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+meclofenamic acid,D02341,meclofenamate,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+meclofenamate sodium,D00169,meclofenamate,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+meclofenamate sodium,D08162,meclofenamate,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+mefenamic acid,D00151,mefenamic acid,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+meloxicam,D00969,meloxicam,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+nabumetone,D00425,nabumetone,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+naproxen,D00118,naproxen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+naproxen sodium,D00970,naproxen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+naproxen etemesil,D10017,naproxen,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+oxaprozin,D00463,oxaprozin,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+piroxicam,D00127,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+piroxicam betadex,D05511,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+piroxicam cinnamate,D05512,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+piroxicam olamine,D05513,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+sulindac,D00120,sulindac,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+tolmetin,D02355,tolmetin,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+tolmetin sodium,D00158,tolmetin,Nonsteroidal Anti-inflammatory Drugs,Analgesics
+hydromorphone,D08047,hydromorphone,"Opioid Analgesics, Long-acting",Analgesics
+hydromorphone hydrochloride,D00839,hydromorphone,"Opioid Analgesics, Long-acting",Analgesics
+fentanyl,D00320,fentanyl,"Opioid Analgesics, Long-acting",Analgesics
+fentanyl citrate,D01399,fentanyl,"Opioid Analgesics, Long-acting",Analgesics
+levorphanol,D08123,levorphanol,"Opioid Analgesics, Long-acting",Analgesics
+levorphanol tartrate,D00841,levorphanol,"Opioid Analgesics, Long-acting",Analgesics
+methadone,D08195,methadone,"Opioid Analgesics, Long-acting",Analgesics
+methadone hydrochloride,D02102,methadone,"Opioid Analgesics, Long-acting",Analgesics
+morphine,D08233,morphine,"Opioid Analgesics, Long-acting",Analgesics
+morphine sulfate,D00842,morphine,"Opioid Analgesics, Long-acting",Analgesics
+morphine hydrochloride hydrate,D02271,morphine,"Opioid Analgesics, Long-acting",Analgesics
+morphine tartrate,D08234,morphine,"Opioid Analgesics, Long-acting",Analgesics
+oxycodone,D05312,oxycodone,"Opioid Analgesics, Long-acting",Analgesics
+oxycodone hydrochloride,D00847,oxycodone,"Opioid Analgesics, Long-acting",Analgesics
+compound oxycodone,D02175,oxycodone,"Opioid Analgesics, Long-acting",Analgesics
+oxycodone terephthalate,D03783,oxycodone,"Opioid Analgesics, Long-acting",Analgesics
+oxycodone hydrochloride hydrate,D05462,oxycodone,"Opioid Analgesics, Long-acting",Analgesics
+oxymorphone,D08323,oxymorphone,"Opioid Analgesics, Long-acting",Analgesics
+oxymorphone hydrochloride,D00844,oxymorphone,"Opioid Analgesics, Long-acting",Analgesics
+tramadol,D08623,tramadol,"Opioid Analgesics, Long-acting",Analgesics
+tramadol hydrochloride,D01355,tramadol,"Opioid Analgesics, Long-acting",Analgesics
+butorphanol,D03197,butorphanol,"Opioid Analgesics, Short-acting",Analgesics
+butorphanol tartrate,D00837,butorphanol,"Opioid Analgesics, Short-acting",Analgesics
+codeine,D00195,codeine,"Opioid Analgesics, Short-acting",Analgesics
+codeine phosphate,D02101,codeine,"Opioid Analgesics, Short-acting",Analgesics
+codeine polistirex,D03579,codeine,"Opioid Analgesics, Short-acting",Analgesics
+codeine sulfate,D03580,codeine,"Opioid Analgesics, Short-acting",Analgesics
+codeine hydrochloride,D07740,codeine,"Opioid Analgesics, Short-acting",Analgesics
+fentanyl,D00320,fentanyl,"Opioid Analgesics, Short-acting",Analgesics
+fentanyl citrate,D01399,fentanyl,"Opioid Analgesics, Short-acting",Analgesics
+hydromorphone,D08047,hydromorphone,"Opioid Analgesics, Short-acting",Analgesics
+hydromorphone hydrochloride,D00839,hydromorphone,"Opioid Analgesics, Short-acting",Analgesics
+pethidine,D08343,meperidine,"Opioid Analgesics, Short-acting",Analgesics
+meperidine hydrochloride,D01383,meperidine,"Opioid Analgesics, Short-acting",Analgesics
+nalbuphine,D08246,nalbuphine,"Opioid Analgesics, Short-acting",Analgesics
+nalbuphine hydrochloride,D00843,nalbuphine,"Opioid Analgesics, Short-acting",Analgesics
+oxycodone,D05312,oxycodone,"Opioid Analgesics, Short-acting",Analgesics
+oxycodone hydrochloride,D00847,oxycodone,"Opioid Analgesics, Short-acting",Analgesics
+compound oxycodone,D02175,oxycodone,"Opioid Analgesics, Short-acting",Analgesics
+oxycodone terephthalate,D03783,oxycodone,"Opioid Analgesics, Short-acting",Analgesics
+oxycodone hydrochloride hydrate,D05462,oxycodone,"Opioid Analgesics, Short-acting",Analgesics
+oxymorphone,D08323,oxymorphone,"Opioid Analgesics, Short-acting",Analgesics
+oxymorphone hydrochloride,D00844,oxymorphone,"Opioid Analgesics, Short-acting",Analgesics
+pentazocine,D00498,pentazocine,"Opioid Analgesics, Short-acting",Analgesics
+pentazocine lactate,D02111,pentazocine,"Opioid Analgesics, Short-acting",Analgesics
+pentazocine hydrochloride,D02227,pentazocine,"Opioid Analgesics, Short-acting",Analgesics
+tapentadol,D06007,tapentadol,"Opioid Analgesics, Short-acting",Analgesics
+tapentadol hydrochloride,D10199,tapentadol,"Opioid Analgesics, Short-acting",Analgesics
+tramadol,D08623,tramadol,"Opioid Analgesics, Short-acting",Analgesics
+tramadol hydrochloride,D01355,tramadol,"Opioid Analgesics, Short-acting",Analgesics
+lidocaine,D00358,lidocaine,Local Anesthetics,Anesthetics
+lidocaine hydrochloride,D02086,lidocaine,Local Anesthetics,Anesthetics
+lidocaine hydrochloride monohydrate,D08127,lidocaine,Local Anesthetics,Anesthetics
+lidocaine - prilocaine mixt,D02740,lidocaine and prilocaine,Local Anesthetics,Anesthetics
+acamprosate,D07058,acamprosate,Alcohol Deterrents/Anti-craving,Anti-Addiction/Substance Abuse Treatment Agents
+acamprosate calcium,D02780,acamprosate,Alcohol Deterrents/Anti-craving,Anti-Addiction/Substance Abuse Treatment Agents
+disulfiram,D00131,disulfiram,Alcohol Deterrents/Anti-craving,Anti-Addiction/Substance Abuse Treatment Agents
+naltrexone,D05113,naltrexone,Alcohol Deterrents/Anti-craving,Anti-Addiction/Substance Abuse Treatment Agents
+naltrexone hydrochloride,D02095,naltrexone,Alcohol Deterrents/Anti-craving,Anti-Addiction/Substance Abuse Treatment Agents
+buprenorphine,D07132,buprenorphine,Opioid Dependence Treatments,Anti-Addiction/Substance Abuse Treatment Agents
+buprenorphine hydrochloride,D00836,buprenorphine,Opioid Dependence Treatments,Anti-Addiction/Substance Abuse Treatment Agents
+buprenorphine - naloxone mixt,D10250,buprenorphine/naloxone,Opioid Dependence Treatments,Anti-Addiction/Substance Abuse Treatment Agents
+naltrexone,D05113,naltrexone,Opioid Dependence Treatments,Anti-Addiction/Substance Abuse Treatment Agents
+naltrexone hydrochloride,D02095,naltrexone,Opioid Dependence Treatments,Anti-Addiction/Substance Abuse Treatment Agents
+naloxone,D08249,naloxone,Opioid Reversal Agents,Anti-Addiction/Substance Abuse Treatment Agents
+naloxone hydrochloride,D01340,naloxone,Opioid Reversal Agents,Anti-Addiction/Substance Abuse Treatment Agents
+bupropion,D07591,bupropion,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+bupropion hydrochloride,D00817,bupropion,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+bupropion hydrobromide,D07938,bupropion,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+nicotine,D03365,nicotine,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+nicotine bitartrate,D05156,nicotine,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+nicotine polacrilex,D05157,nicotine,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+varenicline,D08669,varenicline,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+varenicline tartrate,D06282,varenicline,Smoking Cessation Agents,Anti-Addiction/Substance Abuse Treatment Agents
+amikacin,D02543,amikacin,Aminoglycosides,Antibacterials
+amikacin sulfate,D00865,amikacin,Aminoglycosides,Antibacterials
+gentamicin,D08013,gentamicin,Aminoglycosides,Antibacterials
+gentamicin sulfate,D01063,gentamicin,Aminoglycosides,Antibacterials
+kanamycin sulfate,D00866,kanamycin,Aminoglycosides,Antibacterials
+kanamycin sulfate,D03262,kanamycin,Aminoglycosides,Antibacterials
+neomycin,D08260,neomycin,Aminoglycosides,Antibacterials
+neomycin sulfate,D01618,neomycin,Aminoglycosides,Antibacterials
+neomycin palmitate,D05141,neomycin,Aminoglycosides,Antibacterials
+neomycin undecylenate,D05142,neomycin,Aminoglycosides,Antibacterials
+paromomycin,D07467,paromomycin,Aminoglycosides,Antibacterials
+paromomycin sulfate,D00868,paromomycin,Aminoglycosides,Antibacterials
+streptomycin,D08531,streptomycin,Aminoglycosides,Antibacterials
+streptomycin sulfate,D01350,streptomycin,Aminoglycosides,Antibacterials
+tobramycin,D00063,tobramycin,Aminoglycosides,Antibacterials
+tobramycin sulfate,D02542,tobramycin,Aminoglycosides,Antibacterials
+cefadroxil,D00257,cefadroxil,"Beta-lactam, Cephalosporins",Antibacterials
+cefadroxil,D02353,cefadroxil,"Beta-lactam, Cephalosporins",Antibacterials
+cefazolin,D02299,cefazolin,"Beta-lactam, Cephalosporins",Antibacterials
+cefazolin sodium,D00905,cefazolin,"Beta-lactam, Cephalosporins",Antibacterials
+cefazolin sodium hydrate,D02226,cefazolin,"Beta-lactam, Cephalosporins",Antibacterials
+cefalexin,D00263,cephalexin,"Beta-lactam, Cephalosporins",Antibacterials
+cephalexin,D00906,cephalexin,"Beta-lactam, Cephalosporins",Antibacterials
+cephalexin hydrochloride,D03438,cephalexin,"Beta-lactam, Cephalosporins",Antibacterials
+cefaclor,D00256,cefaclor,"Beta-lactam, Cephalosporins",Antibacterials
+cefaclor,D02352,cefaclor,"Beta-lactam, Cephalosporins",Antibacterials
+cefoxitin,D02345,cefoxitin,"Beta-lactam, Cephalosporins",Antibacterials
+cefoxitin sodium,D00913,cefoxitin,"Beta-lactam, Cephalosporins",Antibacterials
+cefprozil,D07651,cefprozil,"Beta-lactam, Cephalosporins",Antibacterials
+cefprozil,D00261,cefprozil,"Beta-lactam, Cephalosporins",Antibacterials
+cefuroxime,D00262,cefuroxime,"Beta-lactam, Cephalosporins",Antibacterials
+cefuroxime axetil,D00914,cefuroxime,"Beta-lactam, Cephalosporins",Antibacterials
+cefuroxime sodium,D00915,cefuroxime,"Beta-lactam, Cephalosporins",Antibacterials
+cefuroxime pivoxetil,D03431,cefuroxime,"Beta-lactam, Cephalosporins",Antibacterials
+cefdinir,D00917,cefdinir,"Beta-lactam, Cephalosporins",Antibacterials
+cefditoren,D07639,cefditoren,"Beta-lactam, Cephalosporins",Antibacterials
+cefditoren pivoxil,D01628,cefditoren,"Beta-lactam, Cephalosporins",Antibacterials
+cefixime,D00258,cefixime,"Beta-lactam, Cephalosporins",Antibacterials
+cefixime hydrate,D07640,cefixime,"Beta-lactam, Cephalosporins",Antibacterials
+cefotaxime,D07647,cefotaxime,"Beta-lactam, Cephalosporins",Antibacterials
+cefotaxime sodium,D00919,cefotaxime,"Beta-lactam, Cephalosporins",Antibacterials
+cefpodoxime,D07650,cefpodoxime,"Beta-lactam, Cephalosporins",Antibacterials
+cefpodoxime proxetil,D00920,cefpodoxime,"Beta-lactam, Cephalosporins",Antibacterials
+ceftazidime,D07654,ceftazidime,"Beta-lactam, Cephalosporins",Antibacterials
+ceftazidime,D00921,ceftazidime,"Beta-lactam, Cephalosporins",Antibacterials
+ceftibuten,D00922,ceftibuten,"Beta-lactam, Cephalosporins",Antibacterials
+ceftibuten hydrate,D02121,ceftibuten,"Beta-lactam, Cephalosporins",Antibacterials
+ceftriaxone,D07659,ceftriaxone,"Beta-lactam, Cephalosporins",Antibacterials
+ceftriaxone sodium,D00924,ceftriaxone,"Beta-lactam, Cephalosporins",Antibacterials
+cefepime,D02376,cefepime,"Beta-lactam, Cephalosporins",Antibacterials
+cefepime hydrochloride,D01157,cefepime,"Beta-lactam, Cephalosporins",Antibacterials
+ceftaroline fosamil,D08884,ceftaroline,"Beta-lactam, Cephalosporins",Antibacterials
+amoxicillin,D07452,amoxicillin,"Beta-lactam, Penicillins",Antibacterials
+amoxicillin,D00229,amoxicillin,"Beta-lactam, Penicillins",Antibacterials
+amoxicillin sodium,D02925,amoxicillin,"Beta-lactam, Penicillins",Antibacterials
+amoxicillin - potassium clavulanate combination,D00230,amoxicillin and clavulanate potassium,"Beta-lactam, Penicillins",Antibacterials
+ampicillin,D00204,ampicillin,"Beta-lactam, Penicillins",Antibacterials
+ampicillin hydrate,D01251,ampicillin,"Beta-lactam, Penicillins",Antibacterials
+ampicillin sodium,D02119,ampicillin,"Beta-lactam, Penicillins",Antibacterials
+ampicillin benzathine,D07570,ampicillin,"Beta-lactam, Penicillins",Antibacterials
+ampicillin sodium and sulbactam sodium for injection,D02065,ampicillin sodium and sulbactam sodium,"Beta-lactam, Penicillins",Antibacterials
+piperacillin,D08380,piperacillin,"Beta-lactam, Penicillins",Antibacterials
+piperacillin sodium,D00466,piperacillin,"Beta-lactam, Penicillins",Antibacterials
+piperacillin,D02251,piperacillin,"Beta-lactam, Penicillins",Antibacterials
+benzylpenicillin,D02336,penicillin g,"Beta-lactam, Penicillins",Antibacterials
+penicillin g potassium,D01053,penicillin g,"Beta-lactam, Penicillins",Antibacterials
+penicillin g benzathine,D02157,penicillin g,"Beta-lactam, Penicillins",Antibacterials
+penicillin g procaine,D02461,penicillin g,"Beta-lactam, Penicillins",Antibacterials
+penicillin g sodium,D05408,penicillin g,"Beta-lactam, Penicillins",Antibacterials
+clemizole penicillin,D07712,penicillin g,"Beta-lactam, Penicillins",Antibacterials
+penicillin v,D05411,penicillin v,"Beta-lactam, Penicillins",Antibacterials
+penicillin v potassium,D00497,penicillin v,"Beta-lactam, Penicillins",Antibacterials
+penicillin v benzathine,D02405,penicillin v,"Beta-lactam, Penicillins",Antibacterials
+phenoxymethylpenicillin benzathine,D02506,penicillin v,"Beta-lactam, Penicillins",Antibacterials
+penicillin v hydrabamine,D05413,penicillin v,"Beta-lactam, Penicillins",Antibacterials
+phenoxymethylpenicillin calcium,D08360,penicillin v,"Beta-lactam, Penicillins",Antibacterials
+dicloxacillin,D02348,dicloxacillin,"Beta-lactam, Penicillins",Antibacterials
+dicloxacillin sodium,D02137,dicloxacillin,"Beta-lactam, Penicillins",Antibacterials
+nafcillin,D08242,nafcillin,"Beta-lactam, Penicillins",Antibacterials
+nafcillin sodium,D00928,nafcillin,"Beta-lactam, Penicillins",Antibacterials
+oxacillin,D08307,oxacillin,"Beta-lactam, Penicillins",Antibacterials
+oxacillin sodium,D00929,oxacillin,"Beta-lactam, Penicillins",Antibacterials
+aztreonam,D00240,aztreonam,"Beta-lactam, Other",Antibacterials
+aztreonam lysine,D06558,aztreonam,"Beta-lactam, Other",Antibacterials
+doripenem,D03895,doripenem,"Beta-lactam, Other",Antibacterials
+doripenem hydrate,D01836,doripenem,"Beta-lactam, Other",Antibacterials
+ertapenem,D07908,ertapenem,"Beta-lactam, Other",Antibacterials
+ertapenem sodium,D04049,ertapenem,"Beta-lactam, Other",Antibacterials
+imipenem hydrate - cilastatin sodium,D00344,imipenem and cilastatin sodium,"Beta-lactam, Other",Antibacterials
+meropenem,D08185,meropenem,"Beta-lactam, Other",Antibacterials
+meropenem,D02222,meropenem,"Beta-lactam, Other",Antibacterials
+azithromycin,D07486,azithromycin,Macrolides,Antibacterials
+azithromycin hydrate,D02134,azithromycin,Macrolides,Antibacterials
+azithromycin,D06390,azithromycin,Macrolides,Antibacterials
+clarithromycin,D00276,clarithromycin,Macrolides,Antibacterials
+clarithromycin lactobionate,D07710,clarithromycin,Macrolides,Antibacterials
+erythromycin,D00140,erythromycin,Macrolides,Antibacterials
+erythromycin estolate,D00851,erythromycin,Macrolides,Antibacterials
+erythromycin ethylsuccinate,D01361,erythromycin,Macrolides,Antibacterials
+erythromycin lactobionate,D02009,erythromycin,Macrolides,Antibacterials
+erythromycin stearate,D02184,erythromycin,Macrolides,Antibacterials
+erythromycin acistrate,D02523,erythromycin,Macrolides,Antibacterials
+erythromycin gluceptate,D02524,erythromycin,Macrolides,Antibacterials
+erythromycin propionate,D02525,erythromycin,Macrolides,Antibacterials
+erythromycin salnacedin,D04054,erythromycin,Macrolides,Antibacterials
+erythromycin thiocyanate,D07909,erythromycin,Macrolides,Antibacterials
+erythromycin stinoprate,D07910,erythromycin,Macrolides,Antibacterials
+fidaxomicin,D09394,fidaxomicin,Macrolides,Antibacterials
+telithromycin,D01078,telithromycin,Macrolides,Antibacterials
+besifloxacin hydrochloride,D08872,besifloxacin,Quinolones,Antibacterials
+ciprofloxacin,D00186,ciprofloxacin,Quinolones,Antibacterials
+ciprofloxacin hydrochloride,D02216,ciprofloxacin,Quinolones,Antibacterials
+ciprofloxacin lactate,D07702,ciprofloxacin,Quinolones,Antibacterials
+gatifloxacin,D08011,gatifloxacin,Quinolones,Antibacterials
+gatifloxacin,D00589,gatifloxacin,Quinolones,Antibacterials
+gemifloxacin,D08012,gemifloxacin,Quinolones,Antibacterials
+gemifloxacin mesylate,D02471,gemifloxacin,Quinolones,Antibacterials
+levofloxacin,D08120,levofloxacin,Quinolones,Antibacterials
+levofloxacin,D00588,levofloxacin,Quinolones,Antibacterials
+moxifloxacin,D08237,moxifloxacin,Quinolones,Antibacterials
+moxifloxacin hydrochloride,D00874,moxifloxacin,Quinolones,Antibacterials
+norfloxacin,D00210,norfloxacin,Quinolones,Antibacterials
+norfloxacin nicotinate,D08287,norfloxacin,Quinolones,Antibacterials
+ofloxacin,D00453,ofloxacin,Quinolones,Antibacterials
+ofloxacin hydrochloride,D08291,ofloxacin,Quinolones,Antibacterials
+sulfacetamide,D05947,sulfacetamide,Sulfonamides,Antibacterials
+sulfacetamide sodium,D00871,sulfacetamide,Sulfonamides,Antibacterials
+sulfadiazine,D00587,sulfadiazine,Sulfonamides,Antibacterials
+sulfadiazine sodium,D05949,sulfadiazine,Sulfonamides,Antibacterials
+"sulfadiazine, silver",D00433,sulfadiazine,Sulfonamides,Antibacterials
+co-trimoxazole,D00285,sulfamethoxazole and trimethoprim,Sulfonamides,Antibacterials
+demeclocycline,D03680,demeclocycline,Tetracyclines,Antibacterials
+demeclocycline hydrochloride,D00290,demeclocycline,Tetracyclines,Antibacterials
+doxycycline,D07876,doxycycline,Tetracyclines,Antibacterials
+doxycycline,D00307,doxycycline,Tetracyclines,Antibacterials
+doxycycline hyclate,D02129,doxycycline,Tetracyclines,Antibacterials
+doxycycline calcium,D03903,doxycycline,Tetracyclines,Antibacterials
+doxycycline fosfatex,D03904,doxycycline,Tetracyclines,Antibacterials
+doxycycline hydrochloride,D07877,doxycycline,Tetracyclines,Antibacterials
+minocycline,D05045,minocycline,Tetracyclines,Antibacterials
+minocycline hydrochloride,D00850,minocycline,Tetracyclines,Antibacterials
+tetracycline,D00201,tetracycline,Tetracyclines,Antibacterials
+tetracycline hydrochloride,D02122,tetracycline,Tetracyclines,Antibacterials
+tetracycline metaphosphate,D06098,tetracycline,Tetracyclines,Antibacterials
+trimethoprim,D00145,trimethoprim,"Antibacterials, Other",Antibacterials
+trimethoprim sulfate,D06236,trimethoprim,"Antibacterials, Other",Antibacterials
+trimethoprim lactate,D08644,trimethoprim,"Antibacterials, Other",Antibacterials
+vancomycin,D00212,vancomycin,"Antibacterials, Other",Antibacterials
+vancomycin hydrochloride,D00926,vancomycin,"Antibacterials, Other",Antibacterials
+clindamycin,D00277,clindamycin,"Antibacterials, Other",Antibacterials
+clindamycin phosphate,D01073,clindamycin,"Antibacterials, Other",Antibacterials
+clindamycin palmitate hydrochloride,D01990,clindamycin,"Antibacterials, Other",Antibacterials
+clindamycin hydrochloride,D02132,clindamycin,"Antibacterials, Other",Antibacterials
+clindamycin phosphate hydrate,D10531,clindamycin,"Antibacterials, Other",Antibacterials
+lincomycin,D00223,lincomycin,"Antibacterials, Other",Antibacterials
+lincomycin hydrochloride hydrate,D02346,lincomycin,"Antibacterials, Other",Antibacterials
+nitrofurantoin,D00439,nitrofurantoin,"Antibacterials, Other",Antibacterials
+linezolid,D00947,linezolid,"Antibacterials, Other",Antibacterials
+"acetic acid, glacial",D00010,acetic acid,"Antibacterials, Other",Antibacterials
+bacitracin,D00128,bacitracin,"Antibacterials, Other",Antibacterials
+bacitracin methylene disalicylate,D03047,bacitracin,"Antibacterials, Other",Antibacterials
+bacitracin zinc,D03048,bacitracin,"Antibacterials, Other",Antibacterials
+chloramphenicol,D00104,chloramphenicol,"Antibacterials, Other",Antibacterials
+chloramphenicol palmitate,D01072,chloramphenicol,"Antibacterials, Other",Antibacterials
+chloramphenicol sodium succinate,D02185,chloramphenicol,"Antibacterials, Other",Antibacterials
+chloramphenicol stearate,D07674,chloramphenicol,"Antibacterials, Other",Antibacterials
+chloramphenicol succinate,D07675,chloramphenicol,"Antibacterials, Other",Antibacterials
+chloramphenicol pantothenate complex,D03461,chloramphenicol,"Antibacterials, Other",Antibacterials
+daptomycin,D01080,daptomycin,"Antibacterials, Other",Antibacterials
+fosfomycin,D04253,fosfomycin,"Antibacterials, Other",Antibacterials
+fosfomycin tromethamine,D00925,fosfomycin,"Antibacterials, Other",Antibacterials
+fosfomycin calcium hydrate,D02187,fosfomycin,"Antibacterials, Other",Antibacterials
+fosfomycin sodium,D02188,fosfomycin,"Antibacterials, Other",Antibacterials
+fosfomycin calcium,D07995,fosfomycin,"Antibacterials, Other",Antibacterials
+gramicidin,D04369,gramicidin,"Antibacterials, Other",Antibacterials
+gramicidin s hydrochloride,D02230,gramicidin,"Antibacterials, Other",Antibacterials
+mafenide,D02351,mafenide,"Antibacterials, Other",Antibacterials
+mafenide acetate,D01166,mafenide,"Antibacterials, Other",Antibacterials
+homosulfamine,D04815,mafenide,"Antibacterials, Other",Antibacterials
+methenamine,D00393,methenamine,"Antibacterials, Other",Antibacterials
+methenamine hippurate,D00855,methenamine,"Antibacterials, Other",Antibacterials
+methenamine mandelate,D00856,methenamine,"Antibacterials, Other",Antibacterials
+methenamine sulfosalicylate,D08199,methenamine,"Antibacterials, Other",Antibacterials
+metronidazole,D00409,metronidazole,"Antibacterials, Other",Antibacterials
+metronidazole hydrochloride,D05016,metronidazole,"Antibacterials, Other",Antibacterials
+metronidazole phosphate,D05017,metronidazole,"Antibacterials, Other",Antibacterials
+metronidazole benzoate,D08214,metronidazole,"Antibacterials, Other",Antibacterials
+mupirocin,D01076,mupirocin,"Antibacterials, Other",Antibacterials
+mupirocin calcium,D02195,mupirocin,"Antibacterials, Other",Antibacterials
+polymyxin b,D08401,polymyxin b,"Antibacterials, Other",Antibacterials
+polymyxin b sulfate,D01066,polymyxin b,"Antibacterials, Other",Antibacterials
+retapamulin,D05720,retapamulin,"Antibacterials, Other",Antibacterials
+rifaximin,D02554,rifaximin,"Antibacterials, Other",Antibacterials
+telavancin hydrochloride,D06057,telavancin,"Antibacterials, Other",Antibacterials
+tinidazole,D01426,tinidazole,"Antibacterials, Other",Antibacterials
+tigecycline,D01079,tigecycline,"Antibacterials, Other",Antibacterials
+ethosuximide,D00539,ethosuximide,Calcium Channel Modifying Agents,Anticonvulsants
+methsuximide,D00404,methsuximide,Calcium Channel Modifying Agents,Anticonvulsants
+pregabalin,D02716,pregabalin,Calcium Channel Modifying Agents,Anticonvulsants
+zonisamide,D00538,zonisamide,Calcium Channel Modifying Agents,Anticonvulsants
+clobazam,D01253,clobazam,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+clonazepam,D00280,clonazepam,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+clorazepate dipotassium,D00694,clorazepate,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+clorazepate monopotassium,D03562,clorazepate,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+diazepam,D00293,diazepam,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+lorazepam,D00365,lorazepam,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+mephobarbital,D00700,mephobarbital,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+primidone,D00474,primidone,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+divalproex sodium,D00304,divalproex,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+gabapentin,D00332,gabapentin,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+gabapentin enacarbil,D09539,gabapentin,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+primidone,D00474,primidone,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+tiagabine,D08588,tiagabine,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+tiagabine hydrochloride,D02097,tiagabine,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+valproic acid,D00399,valproate,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+divalproex sodium,D00304,valproate,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+valproate sodium,D00710,valproate,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+calcium valproate,D08667,valproate,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+vigabatrin,D00535,vigabatrin,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Anticonvulsants
+felbamate,D00536,felbamate,Glutamate Reducing Agents,Anticonvulsants
+lamotrigine,D00354,lamotrigine,Glutamate Reducing Agents,Anticonvulsants
+perampanel,D08964,perampanel,Glutamate Reducing Agents,Anticonvulsants
+perampanel hydrate,D10780,perampanel,Glutamate Reducing Agents,Anticonvulsants
+topiramate,D00537,topiramate,Glutamate Reducing Agents,Anticonvulsants
+carbamazepine,D00252,carbamazepine,Sodium Channel Agents,Anticonvulsants
+eslicarbazepine,D09215,eslicarbazepine,Sodium Channel Agents,Anticonvulsants
+eslicarbazepine acetate,D09612,eslicarbazepine,Sodium Channel Agents,Anticonvulsants
+ethotoin,D00708,ethotoin,Sodium Channel Agents,Anticonvulsants
+fosphenytoin,D07993,fosphenytoin,Sodium Channel Agents,Anticonvulsants
+fosphenytoin sodium,D02096,fosphenytoin,Sodium Channel Agents,Anticonvulsants
+fosphenytoin sodium hydrate,D07595,fosphenytoin,Sodium Channel Agents,Anticonvulsants
+lacosamide,D07299,lacosamide,Sodium Channel Agents,Anticonvulsants
+oxcarbazepine,D00533,oxcarbazepine,Sodium Channel Agents,Anticonvulsants
+phenytoin,D00512,phenytoin,Sodium Channel Agents,Anticonvulsants
+phenytoin sodium,D02103,phenytoin,Sodium Channel Agents,Anticonvulsants
+rufinamide,D05775,rufinamide,Sodium Channel Agents,Anticonvulsants
+levetiracetam,D00709,levetiracetam,"Anticonvulsants, Other",Anticonvulsants
+ezogabine,D09569,ezogabine,"Anticonvulsants, Other",Anticonvulsants
+donepezil,D07869,donepezil,Cholinesterase Inhibitors,Antidementia Agents
+donepezil hydrochloride,D00670,donepezil,Cholinesterase Inhibitors,Antidementia Agents
+galantamine,D04292,galantamine,Cholinesterase Inhibitors,Antidementia Agents
+galantamine hydrobromide,D02173,galantamine,Cholinesterase Inhibitors,Antidementia Agents
+rivastigmine,D03822,rivastigmine,Cholinesterase Inhibitors,Antidementia Agents
+rivastigmine tartrate,D02558,rivastigmine,Cholinesterase Inhibitors,Antidementia Agents
+memantine,D08174,memantine,N-methyl-D-aspartate (NMDA) Receptor Antagonist,Antidementia Agents
+memantine hydrochloride,D04905,memantine,N-methyl-D-aspartate (NMDA) Receptor Antagonist,Antidementia Agents
+ergoloid mesylates,D02268,ergoloid mesylates,"Antidementia Agents, Other",Antidementia Agents
+phenelzine,D08349,phenelzine,Monoamine Oxidase Inhibitors,Antidepressants
+phenelzine sulfate,D00505,phenelzine,Monoamine Oxidase Inhibitors,Antidepressants
+selegiline,D03731,selegiline,Monoamine Oxidase Inhibitors,Antidepressants
+selegiline hydrochloride,D00785,selegiline,Monoamine Oxidase Inhibitors,Antidepressants
+tranylcypromine,D08625,tranylcypromine,Monoamine Oxidase Inhibitors,Antidepressants
+tranylcypromine sulfate,D00826,tranylcypromine,Monoamine Oxidase Inhibitors,Antidepressants
+citalopram,D07704,citalopram,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+citalopram hydrobromide,D00822,citalopram,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+citalopram hydrochloride,D07705,citalopram,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+desvenlafaxine,D07793,desvenlafaxine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+desvenlafaxine succinate,D02570,desvenlafaxine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+duloxetine,D07880,duloxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+duloxetine hydrochloride,D01179,duloxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+escitalopram,D07913,escitalopram,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+escitalopram oxalate,D02567,escitalopram,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+fluoxetine,D00326,fluoxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+fluoxetine hydrochloride,D00823,fluoxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+fluvoxamine,D07984,fluvoxamine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+fluvoxamine maleate,D00824,fluvoxamine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+levomilnacipran,D10072,levomilnacipran,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+levomilnacipran hydrochloride,D10133,levomilnacipran,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+maprotiline,D02566,maprotiline,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+maprotiline hydrochloride,D00818,maprotiline,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+nefazodone,D08257,nefazodone,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+nefazodone hydrochloride,D00819,nefazodone,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+paroxetine,D02362,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+paroxetine hydrochloride hydrate,D02260,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+paroxetine hydrochloride,D05374,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+paroxetine mesylate,D05375,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+sertraline,D02360,sertraline,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+sertraline hydrochloride,D00825,sertraline,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+trazodone,D08626,trazodone,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+trazodone hydrochloride,D00820,trazodone,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+venlafaxine,D08670,venlafaxine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+venlafaxine hydrochloride,D00821,venlafaxine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+vilazodone,D09698,vilazodone,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+vilazodone hydrochloride,D09699,vilazodone,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+vortioxetine,D10184,vortioxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+vortioxetine hydrobromide,D10185,vortioxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Antidepressants
+amitriptyline,D07448,amitriptyline,Tricyclics,Antidepressants
+amitriptyline hydrochloride,D00809,amitriptyline,Tricyclics,Antidepressants
+amoxapine,D00228,amoxapine,Tricyclics,Antidepressants
+clomipramine,D07727,clomipramine,Tricyclics,Antidepressants
+clomipramine hydrochloride,D00811,clomipramine,Tricyclics,Antidepressants
+desipramine,D07791,desipramine,Tricyclics,Antidepressants
+desipramine hydrochloride,D00812,desipramine,Tricyclics,Antidepressants
+doxepin,D07875,doxepin,Tricyclics,Antidepressants
+doxepin hydrochloride,D00814,doxepin,Tricyclics,Antidepressants
+imipramine,D08070,imipramine,Tricyclics,Antidepressants
+imipramine hydrochloride,D00815,imipramine,Tricyclics,Antidepressants
+imipramine pamoate,D08071,imipramine,Tricyclics,Antidepressants
+nortriptyline,D08288,nortriptyline,Tricyclics,Antidepressants
+nortriptyline hydrochloride,D00816,nortriptyline,Tricyclics,Antidepressants
+protriptyline,D08447,protriptyline,Tricyclics,Antidepressants
+protriptyline hydrochloride,D00484,protriptyline,Tricyclics,Antidepressants
+trimipramine,D00394,trimipramine,Tricyclics,Antidepressants
+trimipramine maleate,D02408,trimipramine,Tricyclics,Antidepressants
+bupropion,D07591,bupropion,"Antidepressants, Other",Antidepressants
+bupropion hydrochloride,D00817,bupropion,"Antidepressants, Other",Antidepressants
+bupropion hydrobromide,D07938,bupropion,"Antidepressants, Other",Antidepressants
+mirtazapine,D00563,mirtazapine,"Antidepressants, Other",Antidepressants
+aripiprazole,D01164,aripiprazole,"Antidepressants, Other",Antidepressants
+aripiprazole cavoxil,D10355,aripiprazole,"Antidepressants, Other",Antidepressants
+aripiprazole lauroxil,D10364,aripiprazole,"Antidepressants, Other",Antidepressants
+aripiprazole hydrate,D10516,aripiprazole,"Antidepressants, Other",Antidepressants
+quetiapine,D08456,quetiapine,"Antidepressants, Other",Antidepressants
+quetiapine fumarate,D00458,quetiapine,"Antidepressants, Other",Antidepressants
+dolasetron,D07867,dolasetron,Emetogenic Therapy Adjuncts,Antiemetics
+dolasetron mesylate,D00725,dolasetron,Emetogenic Therapy Adjuncts,Antiemetics
+granisetron,D04370,granisetron,Emetogenic Therapy Adjuncts,Antiemetics
+granisetron hydrochloride,D00677,granisetron,Emetogenic Therapy Adjuncts,Antiemetics
+ondansetron,D00456,ondansetron,Emetogenic Therapy Adjuncts,Antiemetics
+ondansetron hydrochloride hydrate,D00678,ondansetron,Emetogenic Therapy Adjuncts,Antiemetics
+palonosetron,D07175,palonosetron,Emetogenic Therapy Adjuncts,Antiemetics
+palonosetron hydrochloride,D05343,palonosetron,Emetogenic Therapy Adjuncts,Antiemetics
+aprepitant,D02968,aprepitant,Emetogenic Therapy Adjuncts,Antiemetics
+fosaprepitant dimeglumine,D06597,aprepitant,Emetogenic Therapy Adjuncts,Antiemetics
+nabilone,D05099,nabilone,Emetogenic Therapy Adjuncts,Antiemetics
+dronabinol,D00306,dronabinol,Emetogenic Therapy Adjuncts,Antiemetics
+chlorpromazine,D00270,chlorpromazine,"Antiemetics, Other",Antiemetics
+chlorpromazine hydrochloride,D00789,chlorpromazine,"Antiemetics, Other",Antiemetics
+chlorpromazine hibenzate,D03274,chlorpromazine,"Antiemetics, Other",Antiemetics
+chlorpromazine phenolphthalinate,D04034,chlorpromazine,"Antiemetics, Other",Antiemetics
+chlorpromazine tannate,D09819,chlorpromazine,"Antiemetics, Other",Antiemetics
+diphenhydramine,D00300,diphenhydramine,"Antiemetics, Other",Antiemetics
+diphenhydramine hydrochloride,D00669,diphenhydramine,"Antiemetics, Other",Antiemetics
+diphenhydramine salicylate,D02419,diphenhydramine,"Antiemetics, Other",Antiemetics
+diphenhydramine tannate,D03285,diphenhydramine,"Antiemetics, Other",Antiemetics
+diphenhydramine laurylsulfate,D03360,diphenhydramine,"Antiemetics, Other",Antiemetics
+diphenhydramine citrate,D03854,diphenhydramine,"Antiemetics, Other",Antiemetics
+doxylamine succinate - pyridoxine hydrochloride mixt,D10357,doxylamine succinate/pyridoxine hydrochloride,"Antiemetics, Other",Antiemetics
+hydroxyzine,D08054,hydroxyzine,"Antiemetics, Other",Antiemetics
+hydroxyzine hydrochloride,D00672,hydroxyzine,"Antiemetics, Other",Antiemetics
+hydroxyzine pamoate,D01096,hydroxyzine,"Antiemetics, Other",Antiemetics
+meclozine,D08163,meclizine,"Antiemetics, Other",Antiemetics
+meclizine hydrochloride,D01317,meclizine,"Antiemetics, Other",Antiemetics
+metoclopramide,D00726,metoclopramide,"Antiemetics, Other",Antiemetics
+metoclopramide hydrochloride,D02213,metoclopramide,"Antiemetics, Other",Antiemetics
+metoclopramide hydrochloride,D05008,metoclopramide,"Antiemetics, Other",Antiemetics
+perphenazine,D00503,perphenazine,"Antiemetics, Other",Antiemetics
+perphenazine maleate,D02037,perphenazine,"Antiemetics, Other",Antiemetics
+perphenazine fendizoate,D04038,perphenazine,"Antiemetics, Other",Antiemetics
+perphenazine hydrochloride,D04965,perphenazine,"Antiemetics, Other",Antiemetics
+perphenazine decanoate,D08341,perphenazine,"Antiemetics, Other",Antiemetics
+perphenazine enantate,D08342,perphenazine,"Antiemetics, Other",Antiemetics
+prochlorperazine,D00493,prochlorperazine,"Antiemetics, Other",Antiemetics
+prochlorperazine maleate,D00479,prochlorperazine,"Antiemetics, Other",Antiemetics
+prochlorperazine mesilate,D02022,prochlorperazine,"Antiemetics, Other",Antiemetics
+prochlorperazine edisylate,D02609,prochlorperazine,"Antiemetics, Other",Antiemetics
+promethazine,D00494,promethazine,"Antiemetics, Other",Antiemetics
+promethazine hydrochloride,D00480,promethazine,"Antiemetics, Other",Antiemetics
+promethazine teoclate,D01242,promethazine,"Antiemetics, Other",Antiemetics
+promethazine methylenedisalicylate,D03290,promethazine,"Antiemetics, Other",Antiemetics
+promethazine maleate,D08432,promethazine,"Antiemetics, Other",Antiemetics
+promethazine hibenzate,D08768,promethazine,"Antiemetics, Other",Antiemetics
+scopolamine,D00138,scopolamine,"Antiemetics, Other",Antiemetics
+scopolamine hydrobromide,D02071,scopolamine,"Antiemetics, Other",Antiemetics
+trimethobenzamide,D08643,trimethobenzamide,"Antiemetics, Other",Antiemetics
+trimethobenzamide hydrochloride,D02733,trimethobenzamide,"Antiemetics, Other",Antiemetics
+celecoxib,D00567,celecoxib,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+diclofenac,D07816,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+diclofenac potassium,D00903,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+diclofenac sodium,D00904,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+diclofenac diethylamine,D07817,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+diclofenac hydroxyethylpyrrolidine,D07818,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+diclofenac calcium,D07819,diclofenac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+diflunisal,D00130,diflunisal,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+etodolac,D00315,etodolac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+fenoprofen,D02350,fenoprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+fenoprofen calcium,D00968,fenoprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+flurbiprofen,D00330,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+flurbiprofen axetil,D01475,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+flurbiprofen sodium,D02290,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+esflurbiprofen,D10254,flurbiprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ibuprofen,D00126,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ibuprofen piconol,D01122,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ibuprofen aluminum,D04490,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ibuprofen lysine,D06606,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ibuprofen arginine salt,D08058,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ibuprofen sodium,D08059,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ibuprofen sodium,D09760,ibuprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+indomethacin,D00141,indomethacin,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+indomethacin sodium,D02110,indomethacin,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ketoprofen,D00132,ketoprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ketoprofen lysine,D08102,ketoprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ketoprofen sodium,D08103,ketoprofen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ketorolac,D08104,ketorolac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+ketorolac tromethamine,D00813,ketorolac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+meclofenamic acid,D02341,meclofenamate,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+meclofenamate sodium,D00169,meclofenamate,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+meclofenamate sodium,D08162,meclofenamate,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+mefenamic acid,D00151,mefenamic acid,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+meloxicam,D00969,meloxicam,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+nabumetone,D00425,nabumetone,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+naproxen,D00118,naproxen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+naproxen sodium,D00970,naproxen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+naproxen etemesil,D10017,naproxen,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+oxaprozin,D00463,oxaprozin,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+piroxicam,D00127,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+piroxicam betadex,D05511,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+piroxicam cinnamate,D05512,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+piroxicam olamine,D05513,piroxicam,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+sulindac,D00120,sulindac,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+tolmetin,D02355,tolmetin,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+tolmetin sodium,D00158,tolmetin,Nonsteroidal Anti-inflammatory Drugs,Anti-inflammatory Agents
+dihydroergotamine,D07837,dihydroergotamine,Ergot Alkaloids,Antimigraine Agents
+dihydroergotamine mesylate,D02211,dihydroergotamine,Ergot Alkaloids,Antimigraine Agents
+dihydroergotamine tartrate,D07838,dihydroergotamine,Ergot Alkaloids,Antimigraine Agents
+ergotamine,D07906,ergotamine,Ergot Alkaloids,Antimigraine Agents
+ergotamine tartrate,D00679,ergotamine,Ergot Alkaloids,Antimigraine Agents
+almotriptan,D02824,almotriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+almotriptan malate,D02825,almotriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+eletriptan,D07887,eletriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+eletriptan hydrobromide,D01973,eletriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+frovatriptan,D07997,frovatriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+frovatriptan succinate,D04264,frovatriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+naratriptan,D08255,naratriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+naratriptan hydrochloride,D00674,naratriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+rizatriptan,D08485,rizatriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+rizatriptan benzoate,D00675,rizatriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+rizatriptan sulfate,D05740,rizatriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+sumatriptan,D00451,sumatriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+sumatriptan succinate,D00676,sumatriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+zolmitriptan,D00415,zolmitriptan,Serotonin (5-HT) 1b/1d Receptor Agonists,Antimigraine Agents
+timolol,D08600,timolol,Prophylactic,Antimigraine Agents
+timolol,D00378,timolol,Prophylactic,Antimigraine Agents
+timolol maleate,D00603,timolol,Prophylactic,Antimigraine Agents
+divalproex sodium,D00304,divalproex,Prophylactic,Antimigraine Agents
+topiramate,D00537,topiramate,Prophylactic,Antimigraine Agents
+valproic acid,D00399,valproate,Prophylactic,Antimigraine Agents
+divalproex sodium,D00304,valproate,Prophylactic,Antimigraine Agents
+valproate sodium,D00710,valproate,Prophylactic,Antimigraine Agents
+calcium valproate,D08667,valproate,Prophylactic,Antimigraine Agents
+ambenonium chloride,D01001,ambenonium,Parasympathomimetics,Antimyasthenic Agents
+pyridostigmine bromide,D00487,pyridostigmine,Parasympathomimetics,Antimyasthenic Agents
+bedaquiline,D09872,bedaquiline,Antituberculars,Antimycobacterials
+bedaquiline fumarate,D09873,bedaquiline,Antituberculars,Antimycobacterials
+capreomycin,D07607,capreomycin,Antituberculars,Antimycobacterials
+capreomycin sulfate,D00135,capreomycin,Antituberculars,Antimycobacterials
+cycloserine,D00877,cycloserine,Antituberculars,Antimycobacterials
+ethambutol,D07925,ethambutol,Antituberculars,Antimycobacterials
+ethambutol hydrochloride,D00878,ethambutol,Antituberculars,Antimycobacterials
+ethionamide,D00591,ethionamide,Antituberculars,Antimycobacterials
+isoniazid,D00346,isoniazid,Antituberculars,Antimycobacterials
+isoniazid calcium pyruvinate,D01501,isoniazid,Antituberculars,Antimycobacterials
+isoniazid sodium methanesulfonate hydrate,D02002,isoniazid,Antituberculars,Antimycobacterials
+isoniazid glucuronate sodium,D09773,isoniazid,Antituberculars,Antimycobacterials
+pyrazinamide,D00144,pyrazinamide,Antituberculars,Antimycobacterials
+rifampin,D00211,rifampin,Antituberculars,Antimycobacterials
+rifapentine,D00879,rifapentine,Antituberculars,Antimycobacterials
+dapsone,D00592,dapsone,"Antimycobacterials, Other",Antimycobacterials
+rifabutin,D00424,rifabutin,"Antimycobacterials, Other",Antimycobacterials
+altretamine,D02841,altretamine,Alkylating Agents,Antineoplastics
+chlorambucil,D00266,chlorambucil,Alkylating Agents,Antineoplastics
+mechlorethamine hydrochloride,D04872,mechlorethamine,Alkylating Agents,Antineoplastics
+melphalan,D00369,melphalan,Alkylating Agents,Antineoplastics
+melphalan hydrochloride,D08173,melphalan,Alkylating Agents,Antineoplastics
+lomustine,D00363,lomustine,Alkylating Agents,Antineoplastics
+busulfan,D00248,busulfan,Alkylating Agents,Antineoplastics
+cyclophosphamide,D07760,cyclophosphamide,Alkylating Agents,Antineoplastics
+cyclophosphamide,D00287,cyclophosphamide,Alkylating Agents,Antineoplastics
+procarbazine,D08423,procarbazine,Alkylating Agents,Antineoplastics
+procarbazine hydrochloride,D00478,procarbazine,Alkylating Agents,Antineoplastics
+enzalutamide,D10218,enzalutamide,Antiandrogens,Antineoplastics
+bicalutamide,D00961,bicalutamide,Antiandrogens,Antineoplastics
+flutamide,D00586,flutamide,Antiandrogens,Antineoplastics
+nilutamide,D00965,nilutamide,Antiandrogens,Antineoplastics
+abiraterone acetate,D09701,abiraterone,Antiandrogens,Antineoplastics
+lenalidomide,D04687,lenalidomide,Antiangiogenic Agents,Antineoplastics
+lenalidomide hydrate,D09813,lenalidomide,Antiangiogenic Agents,Antineoplastics
+pomalidomide,D08976,pomalidomide,Antiangiogenic Agents,Antineoplastics
+thalidomide,D00754,thalidomide,Antiangiogenic Agents,Antineoplastics
+estramustine,D04066,estramustine,Antiestrogens/Modifiers,Antineoplastics
+estramustine phosphate sodium,D02398,estramustine,Antiestrogens/Modifiers,Antineoplastics
+estramustine phosphate sodium hydrate,D06397,estramustine,Antiestrogens/Modifiers,Antineoplastics
+tamoxifen,D08559,tamoxifen,Antiestrogens/Modifiers,Antineoplastics
+tamoxifen citrate,D00966,tamoxifen,Antiestrogens/Modifiers,Antineoplastics
+toremifene,D08620,toremifene,Antiestrogens/Modifiers,Antineoplastics
+toremifene citrate,D00967,toremifene,Antiestrogens/Modifiers,Antineoplastics
+mercaptopurine,D04931,mercaptopurine,Antimetabolites,Antineoplastics
+mercaptopurine,D00161,mercaptopurine,Antimetabolites,Antineoplastics
+tioguanine,D08603,thioguanine,Antimetabolites,Antineoplastics
+thioguanine,D06109,thioguanine,Antimetabolites,Antineoplastics
+hydroxyurea,D00341,hydroxyurea,Antimetabolites,Antineoplastics
+anastrozole,D00960,anastrozole,"Aromatase Inhibitors, 3rd Generation",Antineoplastics
+exemestane,D00963,exemestane,"Aromatase Inhibitors, 3rd Generation",Antineoplastics
+letrozole,D00964,letrozole,"Aromatase Inhibitors, 3rd Generation",Antineoplastics
+etoposide,D00125,etoposide,Enzyme Inhibitors,Antineoplastics
+etoposide phosphate,D04107,etoposide,Enzyme Inhibitors,Antineoplastics
+topotecan,D08618,topotecan,Enzyme Inhibitors,Antineoplastics
+topotecan hydrochloride,D02168,topotecan,Enzyme Inhibitors,Antineoplastics
+vemurafenib,D09996,vemurafenib,Molecular Target Inhibitors,Antineoplastics
+dabrafenib,D10064,dabrafenib,Molecular Target Inhibitors,Antineoplastics
+dabrafenib mesylate,D10104,dabrafenib,Molecular Target Inhibitors,Antineoplastics
+trametinib,D10175,trametinib,Molecular Target Inhibitors,Antineoplastics
+trametinib dimethyl sulfoxide,D10176,trametinib,Molecular Target Inhibitors,Antineoplastics
+ibrutinib,D10223,ibrutinib,Molecular Target Inhibitors,Antineoplastics
+afatinib,D09724,afatinib,Molecular Target Inhibitors,Antineoplastics
+afatinib dimaleate,D09733,afatinib,Molecular Target Inhibitors,Antineoplastics
+erlotinib,D07907,erlotinib,Molecular Target Inhibitors,Antineoplastics
+erlotinib hydrochloride,D04023,erlotinib,Molecular Target Inhibitors,Antineoplastics
+vismodegib,D09992,vismodegib,Molecular Target Inhibitors,Antineoplastics
+ruxolitinib,D09959,ruxolitinib,Molecular Target Inhibitors,Antineoplastics
+ruxolitinib phosphate,D09960,ruxolitinib,Molecular Target Inhibitors,Antineoplastics
+everolimus,D02714,everolimus,Molecular Target Inhibitors,Antineoplastics
+crizotinib,D09731,crizotinib,Molecular Target Inhibitors,Antineoplastics
+bosutinib,D03252,bosutinib,Molecular Target Inhibitors,Antineoplastics
+bosutinib hydrate,D09728,bosutinib,Molecular Target Inhibitors,Antineoplastics
+dasatinib,D03658,dasatinib,Molecular Target Inhibitors,Antineoplastics
+dasatinib,D06414,dasatinib,Molecular Target Inhibitors,Antineoplastics
+imatinib,D08066,imatinib,Molecular Target Inhibitors,Antineoplastics
+imatinib mesylate,D01441,imatinib,Molecular Target Inhibitors,Antineoplastics
+nilotinib,D08953,nilotinib,Molecular Target Inhibitors,Antineoplastics
+nilotinib hydrochloride hydrate,D06413,nilotinib,Molecular Target Inhibitors,Antineoplastics
+ponatinib,D09950,ponatinib,Molecular Target Inhibitors,Antineoplastics
+ponatinib hydrochloride,D09951,ponatinib,Molecular Target Inhibitors,Antineoplastics
+lapatinib,D08108,lapatinib,Molecular Target Inhibitors,Antineoplastics
+lapatinib ditosylate,D04024,lapatinib,Molecular Target Inhibitors,Antineoplastics
+axitinib,D03218,axitinib,Molecular Target Inhibitors,Antineoplastics
+cabozantinib,D10062,cabozantinib,Molecular Target Inhibitors,Antineoplastics
+cabozantinib s-malate,D10095,cabozantinib,Molecular Target Inhibitors,Antineoplastics
+pazopanib hydrochloride,D05380,pazopanib,Molecular Target Inhibitors,Antineoplastics
+regorafenib,D10138,regorafenib,Molecular Target Inhibitors,Antineoplastics
+regorafenib hydrate,D10137,regorafenib,Molecular Target Inhibitors,Antineoplastics
+sorafenib,D08524,sorafenib,Molecular Target Inhibitors,Antineoplastics
+sorafenib tosylate,D06272,sorafenib,Molecular Target Inhibitors,Antineoplastics
+sunitinib,D08552,sunitinib,Molecular Target Inhibitors,Antineoplastics
+sunitinib malate,D06402,sunitinib,Molecular Target Inhibitors,Antineoplastics
+rituximab,D02994,rituximab,Monoclonal Antibodies,Antineoplastics
+ofatumumab,D09314,ofatumumab,Monoclonal Antibodies,Antineoplastics
+alitretinoin,D02815,alitretinoin,Retinoids,Antineoplastics
+bexarotene,D03106,bexarotene,Retinoids,Antineoplastics
+tretinoin,D00094,tretinoin,Retinoids,Antineoplastics
+tretinoin tocoferil,D01516,tretinoin,Retinoids,Antineoplastics
+fludarabine,D07966,fludarabine,"Antineoplastics, Other",Antineoplastics
+fludarabine phosphate,D01907,fludarabine,"Antineoplastics, Other",Antineoplastics
+folinic acid,D07986,leucovorin,"Antineoplastics, Other",Antineoplastics
+leucovorin calcium,D01211,leucovorin,"Antineoplastics, Other",Antineoplastics
+folinic acid calcium salt pentahydrate,D07987,leucovorin,"Antineoplastics, Other",Antineoplastics
+mitoxantrone,D08224,mitoxantrone,"Antineoplastics, Other",Antineoplastics
+mitoxantrone hydrochloride,D02166,mitoxantrone,"Antineoplastics, Other",Antineoplastics
+vorinostat,D06320,vorinostat,"Antineoplastics, Other",Antineoplastics
+albendazole,D00134,albendazole,Anthelmintics,Antiparasitics
+albendazole oxide,D07106,albendazole,Anthelmintics,Antiparasitics
+ivermectin,D00804,ivermectin,Anthelmintics,Antiparasitics
+mebendazole,D00368,mebendazole,Anthelmintics,Antiparasitics
+praziquantel,D00471,praziquantel,Anthelmintics,Antiparasitics
+artemether - lumefantrine mixt,D02484,artemether and lumefantrine,Antiprotozoals,Antiparasitics
+atovaquone - proguanil hydrochloride mixt,D02472,atovaquone and proguanil hydrochloride,Antiprotozoals,Antiparasitics
+chloroquine,D02366,chloroquine,Antiprotozoals,Antiparasitics
+chloroquine phosphate,D02125,chloroquine,Antiprotozoals,Antiparasitics
+chloroquine hydrochloride,D03469,chloroquine,Antiprotozoals,Antiparasitics
+chloroquine sulfate,D07680,chloroquine,Antiprotozoals,Antiparasitics
+hydroxychloroquine,D08050,hydroxychloroquine,Antiprotozoals,Antiparasitics
+hydroxychloroquine sulfate,D02114,hydroxychloroquine,Antiprotozoals,Antiparasitics
+mefloquine,D04895,mefloquine,Antiprotozoals,Antiparasitics
+mefloquine hydrochloride,D00831,mefloquine,Antiprotozoals,Antiparasitics
+primaquine,D08420,primaquine,Antiprotozoals,Antiparasitics
+primaquine phosphate,D02126,primaquine,Antiprotozoals,Antiparasitics
+pyrimethamine,D00488,pyrimethamine,Antiprotozoals,Antiparasitics
+pyrimethamine - sulfadoxine mixt,D02448,pyrimethamine,Antiprotozoals,Antiparasitics
+quinine,D08460,quinine,Antiprotozoals,Antiparasitics
+quinine ethylcarbonate,D01663,quinine,Antiprotozoals,Antiparasitics
+quinine hydrochloride hydrate,D02261,quinine,Antiprotozoals,Antiparasitics
+quinine sulfate,D02262,quinine,Antiprotozoals,Antiparasitics
+quinine ascorbate,D05681,quinine,Antiprotozoals,Antiparasitics
+quinine dihydrochloride,D08461,quinine,Antiprotozoals,Antiparasitics
+atovaquone,D00236,atovaquone,Antiprotozoals,Antiparasitics
+nitazoxanide,D02486,nitazoxanide,Antiprotozoals,Antiparasitics
+pentamidine,D08333,pentamidine,Antiprotozoals,Antiparasitics
+pentamidine isethionate,D00834,pentamidine,Antiprotozoals,Antiparasitics
+benzyl alcohol,D00077,benzyl alcohol,Pediculicides/Scabicides,Antiparasitics
+crotamiton,D01381,crotamiton,Pediculicides/Scabicides,Antiparasitics
+lindane,D00360,lindane,Pediculicides/Scabicides,Antiparasitics
+malathion,D00534,malathion,Pediculicides/Scabicides,Antiparasitics
+permethrin,D05443,permethrin,Pediculicides/Scabicides,Antiparasitics
+spinosad,D09384,spinosad,Pediculicides/Scabicides,Antiparasitics
+benzatropine,D07511,benztropine,Anticholinergics,Antiparkinson Agents
+benztropine mesylate,D00778,benztropine,Anticholinergics,Antiparkinson Agents
+diphenhydramine,D00300,diphenhydramine,Anticholinergics,Antiparkinson Agents
+diphenhydramine hydrochloride,D00669,diphenhydramine,Anticholinergics,Antiparkinson Agents
+diphenhydramine salicylate,D02419,diphenhydramine,Anticholinergics,Antiparkinson Agents
+diphenhydramine tannate,D03285,diphenhydramine,Anticholinergics,Antiparkinson Agents
+diphenhydramine laurylsulfate,D03360,diphenhydramine,Anticholinergics,Antiparkinson Agents
+diphenhydramine citrate,D03854,diphenhydramine,Anticholinergics,Antiparkinson Agents
+trihexyphenidyl,D08638,trihexyphenidyl,Anticholinergics,Antiparkinson Agents
+trihexyphenidyl hydrochloride,D00787,trihexyphenidyl,Anticholinergics,Antiparkinson Agents
+apomorphine,D07460,apomorphine,Dopamine Agonists,Antiparkinson Agents
+apomorphine hydrochloride,D02004,apomorphine,Dopamine Agonists,Antiparkinson Agents
+bromocriptine,D03165,bromocriptine,Dopamine Agonists,Antiparkinson Agents
+bromocriptine mesylate,D00780,bromocriptine,Dopamine Agonists,Antiparkinson Agents
+pramipexole,D05575,pramipexole,Dopamine Agonists,Antiparkinson Agents
+pramipexole hydrochloride,D00559,pramipexole,Dopamine Agonists,Antiparkinson Agents
+ropinirole,D08489,ropinirole,Dopamine Agonists,Antiparkinson Agents
+ropinirole hydrochloride,D00784,ropinirole,Dopamine Agonists,Antiparkinson Agents
+rotigotine,D05768,rotigotine,Dopamine Agonists,Antiparkinson Agents
+carbidopa,D00558,carbidopa,Dopamine Precursors/L-Amino Acid Decarboxylase Inhibitors,Antiparkinson Agents
+carbidopa hydrate - levodopa mixt,D00253,carbidopa and levodopa,Dopamine Precursors/L-Amino Acid Decarboxylase Inhibitors,Antiparkinson Agents
+rasagiline,D08469,rasagiline,Monoamine Oxidase B (MAO-B) Inhibitors,Antiparkinson Agents
+rasagiline mesylate,D02562,rasagiline,Monoamine Oxidase B (MAO-B) Inhibitors,Antiparkinson Agents
+selegiline,D03731,selegiline,Monoamine Oxidase B (MAO-B) Inhibitors,Antiparkinson Agents
+selegiline hydrochloride,D00785,selegiline,Monoamine Oxidase B (MAO-B) Inhibitors,Antiparkinson Agents
+entacapone,D00781,entacapone,"Antiparkinson Agents, Other",Antiparkinson Agents
+tolcapone,D00786,tolcapone,"Antiparkinson Agents, Other",Antiparkinson Agents
+amantadine,D07441,amantadine,"Antiparkinson Agents, Other",Antiparkinson Agents
+amantadine hydrochloride,D00777,amantadine,"Antiparkinson Agents, Other",Antiparkinson Agents
+chlorpromazine,D00270,chlorpromazine,1st Generation/Typical,Antipsychotics
+chlorpromazine hydrochloride,D00789,chlorpromazine,1st Generation/Typical,Antipsychotics
+chlorpromazine hibenzate,D03274,chlorpromazine,1st Generation/Typical,Antipsychotics
+chlorpromazine phenolphthalinate,D04034,chlorpromazine,1st Generation/Typical,Antipsychotics
+chlorpromazine tannate,D09819,chlorpromazine,1st Generation/Typical,Antipsychotics
+fluphenazine,D07977,fluphenazine,1st Generation/Typical,Antipsychotics
+fluphenazine hydrochloride,D00791,fluphenazine,1st Generation/Typical,Antipsychotics
+fluphenazine enanthate,D00792,fluphenazine,1st Generation/Typical,Antipsychotics
+fluphenazine decanoate,D00793,fluphenazine,1st Generation/Typical,Antipsychotics
+fluphenazine maleate,D02163,fluphenazine,1st Generation/Typical,Antipsychotics
+haloperidol,D00136,haloperidol,1st Generation/Typical,Antipsychotics
+haloperidol decanoate,D01898,haloperidol,1st Generation/Typical,Antipsychotics
+haloperidol lactate,D08035,haloperidol,1st Generation/Typical,Antipsychotics
+loxapine,D02340,loxapine,1st Generation/Typical,Antipsychotics
+loxapine succinate,D00794,loxapine,1st Generation/Typical,Antipsychotics
+loxapine hydrochloride,D08148,loxapine,1st Generation/Typical,Antipsychotics
+perphenazine,D00503,perphenazine,1st Generation/Typical,Antipsychotics
+perphenazine maleate,D02037,perphenazine,1st Generation/Typical,Antipsychotics
+perphenazine fendizoate,D04038,perphenazine,1st Generation/Typical,Antipsychotics
+perphenazine hydrochloride,D04965,perphenazine,1st Generation/Typical,Antipsychotics
+perphenazine decanoate,D08341,perphenazine,1st Generation/Typical,Antipsychotics
+perphenazine enantate,D08342,perphenazine,1st Generation/Typical,Antipsychotics
+pimozide,D00560,pimozide,1st Generation/Typical,Antipsychotics
+prochlorperazine,D00493,prochlorperazine,1st Generation/Typical,Antipsychotics
+prochlorperazine maleate,D00479,prochlorperazine,1st Generation/Typical,Antipsychotics
+prochlorperazine mesilate,D02022,prochlorperazine,1st Generation/Typical,Antipsychotics
+prochlorperazine edisylate,D02609,prochlorperazine,1st Generation/Typical,Antipsychotics
+thioridazine,D00373,thioridazine,1st Generation/Typical,Antipsychotics
+thioridazine hydrochloride,D00798,thioridazine,1st Generation/Typical,Antipsychotics
+thiothixene,D00374,thiothixene,1st Generation/Typical,Antipsychotics
+thiothixene hydrochloride,D02612,thiothixene,1st Generation/Typical,Antipsychotics
+trifluoperazine,D08636,trifluoperazine,1st Generation/Typical,Antipsychotics
+trifluoperazine hydrochloride,D00799,trifluoperazine,1st Generation/Typical,Antipsychotics
+trifluoperazine maleate,D01448,trifluoperazine,1st Generation/Typical,Antipsychotics
+aripiprazole,D01164,aripiprazole,2nd Generation/Atypical,Antipsychotics
+aripiprazole cavoxil,D10355,aripiprazole,2nd Generation/Atypical,Antipsychotics
+aripiprazole lauroxil,D10364,aripiprazole,2nd Generation/Atypical,Antipsychotics
+aripiprazole hydrate,D10516,aripiprazole,2nd Generation/Atypical,Antipsychotics
+asenapine maleate,D02995,asenapine,2nd Generation/Atypical,Antipsychotics
+iloperidone,D02666,iloperidone,2nd Generation/Atypical,Antipsychotics
+lurasidone hydrochloride,D04820,lurasidone,2nd Generation/Atypical,Antipsychotics
+olanzapine,D00454,olanzapine,2nd Generation/Atypical,Antipsychotics
+olanzapine pamoate,D06623,olanzapine,2nd Generation/Atypical,Antipsychotics
+quetiapine,D08456,quetiapine,2nd Generation/Atypical,Antipsychotics
+quetiapine fumarate,D00458,quetiapine,2nd Generation/Atypical,Antipsychotics
+paliperidone,D05339,paliperidone,2nd Generation/Atypical,Antipsychotics
+paliperidone palmitate,D05340,paliperidone,2nd Generation/Atypical,Antipsychotics
+risperidone,D00426,risperidone,2nd Generation/Atypical,Antipsychotics
+ziprasidone,D08687,ziprasidone,2nd Generation/Atypical,Antipsychotics
+ziprasidone hydrochloride,D01939,ziprasidone,2nd Generation/Atypical,Antipsychotics
+ziprasidone mesylate,D02100,ziprasidone,2nd Generation/Atypical,Antipsychotics
+clozapine,D00283,clozapine,Treatment-Resistant,Antipsychotics
+cidofovir,D00273,cidofovir,Anti-cytomegalovirus (CMV) Agents,Antivirals
+foscarnet sodium,D00579,foscarnet,Anti-cytomegalovirus (CMV) Agents,Antivirals
+foscarnet sodium hydrate,D02267,foscarnet,Anti-cytomegalovirus (CMV) Agents,Antivirals
+ganciclovir,D00333,ganciclovir,Anti-cytomegalovirus (CMV) Agents,Antivirals
+ganciclovir sodium,D04301,ganciclovir,Anti-cytomegalovirus (CMV) Agents,Antivirals
+valganciclovir,D02495,valganciclovir,Anti-cytomegalovirus (CMV) Agents,Antivirals
+valganciclovir hydrochloride,D03256,valganciclovir,Anti-cytomegalovirus (CMV) Agents,Antivirals
+adefovir,D02768,adefovir,Anti-hepatitis B (HBV) Agents,Antivirals
+adefovir dipivoxil,D01655,adefovir,Anti-hepatitis B (HBV) Agents,Antivirals
+entecavir,D07896,entecavir,Anti-hepatitis B (HBV) Agents,Antivirals
+entecavir,D04008,entecavir,Anti-hepatitis B (HBV) Agents,Antivirals
+lamivudine,D00353,lamivudine,Anti-hepatitis B (HBV) Agents,Antivirals
+ribavirin,D00423,ribavirin,Anti-hepatitis B (HBV) Agents,Antivirals
+telbivudine,D06675,telbivudine,Anti-hepatitis B (HBV) Agents,Antivirals
+tenofovir,D06074,tenofovir,Anti-hepatitis B (HBV) Agents,Antivirals
+tenofovir disoproxil fumarate,D01982,tenofovir,Anti-hepatitis B (HBV) Agents,Antivirals
+tenofovir alafenamide,D10428,tenofovir,Anti-hepatitis B (HBV) Agents,Antivirals
+tenofovir alafenamide fumarate,D10605,tenofovir,Anti-hepatitis B (HBV) Agents,Antivirals
+interferon alfa-2b,D02745,"interferon alfa-2b, recombinant",Anti-hepatitis B (HBV) Agents,Antivirals
+interferon alfa-n3,D04553,interferon alfa-n3,Anti-hepatitis B (HBV) Agents,Antivirals
+peginterferon alfa-2a,D02747,peginterferon alfa-2a,Anti-hepatitis B (HBV) Agents,Antivirals
+peginterferon alfa-2b,D02748,peginterferon alfa-2b,Anti-hepatitis B (HBV) Agents,Antivirals
+ribavirin,D00423,ribavirin,Anti-hepatitis C (HCV) Agents,Antivirals
+interferon alfa-2b,D02745,"interferon alfa-2b, recombinant",Anti-hepatitis C (HCV) Agents,Antivirals
+interferon alfa-n3,D04553,interferon alfa-n3,Anti-hepatitis C (HCV) Agents,Antivirals
+interferon alfacon-1,D02744,interferon alfacon-1,Anti-hepatitis C (HCV) Agents,Antivirals
+peginterferon alfa-2a,D02747,peginterferon alfa-2a,Anti-hepatitis C (HCV) Agents,Antivirals
+peginterferon alfa-2b,D02748,peginterferon alfa-2b,Anti-hepatitis C (HCV) Agents,Antivirals
+boceprevir,D08876,boceprevir,Anti-hepatitis C (HCV) Agents,Antivirals
+simeprevir,D10081,simeprevir,Anti-hepatitis C (HCV) Agents,Antivirals
+simeprevir sodium,D10469,simeprevir,Anti-hepatitis C (HCV) Agents,Antivirals
+telaprevir,D09012,telaprevir,Anti-hepatitis C (HCV) Agents,Antivirals
+sofosbuvir,D10366,sofosbuvir,Anti-hepatitis C (HCV) Agents,Antivirals
+acyclovir,D00222,acyclovir,Antiherpetic Agents,Antivirals
+acyclovir sodium,D02764,acyclovir,Antiherpetic Agents,Antivirals
+famciclovir,D00317,famciclovir,Antiherpetic Agents,Antivirals
+foscarnet sodium,D00579,foscarnet,Antiherpetic Agents,Antivirals
+foscarnet sodium hydrate,D02267,foscarnet,Antiherpetic Agents,Antivirals
+idoxuridine,D00342,idoxuridine,Antiherpetic Agents,Antivirals
+trifluridine,D00391,trifluridine,Antiherpetic Agents,Antivirals
+penciclovir,D05407,penciclovir,Antiherpetic Agents,Antivirals
+penciclovir sodium,D02124,penciclovir,Antiherpetic Agents,Antivirals
+valaciclovir,D08664,valacyclovir,Antiherpetic Agents,Antivirals
+valacyclovir hydrochloride,D00398,valacyclovir,Antiherpetic Agents,Antivirals
+delavirdine,D07782,delavirdine,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Antivirals
+delavirdine mesylate,D00895,delavirdine,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Antivirals
+efavirenz,D00896,efavirenz,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Antivirals
+etravirine,D04112,etravirine,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Antivirals
+nevirapine,D00435,nevirapine,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Antivirals
+rilpivirine,D09720,rilpivirine,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Antivirals
+rilpivirine hydrochloride,D09958,rilpivirine,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Antivirals
+abacavir,D07057,abacavir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+abacavir sulfate,D00891,abacavir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+abacavir succinate,D02734,abacavir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+abacavir sulfate - lamivudine mixt,D08775,abacavir and lamivudine,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+didanosine,D00296,didanosine,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+emtricitabine,D01199,emtricitabine,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+emtricitabine - tenofovir disoproxil mixt,D02297,emtricitabine and tenofovir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+lamivudine,D00353,lamivudine,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+zidovudine - lamivudine mixt,D07507,lamivudine and zidovudine,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+stavudine,D00445,stavudine,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+tenofovir,D06074,tenofovir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+tenofovir disoproxil fumarate,D01982,tenofovir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+tenofovir alafenamide,D10428,tenofovir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+tenofovir alafenamide fumarate,D10605,tenofovir,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+zidovudine,D00413,zidovudine,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)v",Antivirals
+atazanavir,D07471,atazanavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+atazanavir sulfate,D01276,atazanavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+darunavir,D03656,darunavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+darunavir ethanolate,D06478,darunavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+fosamprenavir,D02497,fosamprenavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+fosamprenavir calcium hydrate,D02867,fosamprenavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+fosamprenavir calcium,D03835,fosamprenavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+fosamprenavir sodium,D03837,fosamprenavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+indinavir,D03833,indinavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+indinavir sulfate,D00897,indinavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+indinavir sulfate ethanolate,D02861,indinavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+lopinavir mixture with ritonavir,D02498,lopinavir and ritonavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+nelfinavir,D08259,nelfinavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+nelfinavir mesylate,D00899,nelfinavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+ritonavir,D00427,ritonavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+saquinavir,D00429,saquinavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+saquinavir mesylate,D01160,saquinavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+tipranavir,D08605,tipranavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+tipranavir disodium,D03843,tipranavir,"Anti-HIV Agents, Protease Inhibitors",Antivirals
+dolutegravir,D10066,dolutegravir,"Anti-HIV Agents, Integrase Inhibitors (INSTI)",Antivirals
+dolutegravir sodium,D10113,dolutegravir,"Anti-HIV Agents, Integrase Inhibitors (INSTI)",Antivirals
+raltegravir,D06676,raltegravir,"Anti-HIV Agents, Integrase Inhibitors (INSTI)",Antivirals
+raltegravir potassium,D07133,raltegravir,"Anti-HIV Agents, Integrase Inhibitors (INSTI)",Antivirals
+enfuvirtide,D02499,enfuvirtide,"Anti-HIV Agents, Other",Antivirals
+maraviroc,D06670,maraviroc,"Anti-HIV Agents, Other",Antivirals
+raltegravir,D06676,raltegravir,"Anti-HIV Agents, Other",Antivirals
+raltegravir potassium,D07133,raltegravir,"Anti-HIV Agents, Other",Antivirals
+amantadine,D07441,amantadine,Anti-influenza Agents,Antivirals
+amantadine hydrochloride,D00777,amantadine,Anti-influenza Agents,Antivirals
+oseltamivir,D08306,oseltamivir,Anti-influenza Agents,Antivirals
+oseltamivir phosphate,D00900,oseltamivir,Anti-influenza Agents,Antivirals
+rimantadine,D08483,rimantadine,Anti-influenza Agents,Antivirals
+rimantadine hydrochloride,D00901,rimantadine,Anti-influenza Agents,Antivirals
+zanamivir,D00902,zanamivir,Anti-influenza Agents,Antivirals
+zanamivir hydrate,D01937,zanamivir,Anti-influenza Agents,Antivirals
+duloxetine,D07880,duloxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+duloxetine hydrochloride,D01179,duloxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+escitalopram,D07913,escitalopram,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+escitalopram oxalate,D02567,escitalopram,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+paroxetine,D02362,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+paroxetine hydrochloride hydrate,D02260,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+paroxetine hydrochloride,D05374,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+paroxetine mesylate,D05375,paroxetine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+sertraline,D02360,sertraline,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+sertraline hydrochloride,D00825,sertraline,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+venlafaxine,D08670,venlafaxine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+venlafaxine hydrochloride,D00821,venlafaxine,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors),Anxiolytics
+alprazolam,D00225,alprazolam,Benzodiazepines,Anxiolytics
+chlordiazepoxide,D00267,chlordiazepoxide,Benzodiazepines,Anxiolytics
+chlordiazepoxide hydrochloride,D00693,chlordiazepoxide,Benzodiazepines,Anxiolytics
+clonazepam,D00280,clonazepam,Benzodiazepines,Anxiolytics
+clorazepate dipotassium,D00694,clorazepate,Benzodiazepines,Anxiolytics
+clorazepate monopotassium,D03562,clorazepate,Benzodiazepines,Anxiolytics
+diazepam,D00293,diazepam,Benzodiazepines,Anxiolytics
+lorazepam,D00365,lorazepam,Benzodiazepines,Anxiolytics
+oxazepam,D00464,oxazepam,Benzodiazepines,Anxiolytics
+buspirone,D07593,buspirone,"Anxiolytics, Other",Anxiolytics
+buspirone hydrochloride,D00702,buspirone,"Anxiolytics, Other",Anxiolytics
+doxepin,D07875,doxepin,"Anxiolytics, Other",Anxiolytics
+doxepin hydrochloride,D00814,doxepin,"Anxiolytics, Other",Anxiolytics
+hydroxyzine,D08054,hydroxyzine,"Anxiolytics, Other",Anxiolytics
+hydroxyzine hydrochloride,D00672,hydroxyzine,"Anxiolytics, Other",Anxiolytics
+hydroxyzine pamoate,D01096,hydroxyzine,"Anxiolytics, Other",Anxiolytics
+meprobamate,D00376,meprobamate,"Anxiolytics, Other",Anxiolytics
+carbamazepine,D00252,carbamazepine,Mood Stabilizers,Bipolar Agents
+divalproex sodium,D00304,divalproex,Mood Stabilizers,Bipolar Agents
+lamotrigine,D00354,lamotrigine,Mood Stabilizers,Bipolar Agents
+lithium,D08133,lithium,Mood Stabilizers,Bipolar Agents
+lithium carbonate,D00801,lithium,Mood Stabilizers,Bipolar Agents
+lithium citrate,D04749,lithium,Mood Stabilizers,Bipolar Agents
+lithium hydroxide,D04750,lithium,Mood Stabilizers,Bipolar Agents
+lithium acetate,D08134,lithium,Mood Stabilizers,Bipolar Agents
+lithium bromide,D08135,lithium,Mood Stabilizers,Bipolar Agents
+lithium gluconate,D08136,lithium,Mood Stabilizers,Bipolar Agents
+lithium sulfate,D08137,lithium,Mood Stabilizers,Bipolar Agents
+valproic acid,D00399,valproate,Mood Stabilizers,Bipolar Agents
+divalproex sodium,D00304,valproate,Mood Stabilizers,Bipolar Agents
+valproate sodium,D00710,valproate,Mood Stabilizers,Bipolar Agents
+calcium valproate,D08667,valproate,Mood Stabilizers,Bipolar Agents
+aripiprazole,D01164,aripiprazole,"Bipolar Agents, Other",Bipolar Agents
+aripiprazole cavoxil,D10355,aripiprazole,"Bipolar Agents, Other",Bipolar Agents
+aripiprazole lauroxil,D10364,aripiprazole,"Bipolar Agents, Other",Bipolar Agents
+aripiprazole hydrate,D10516,aripiprazole,"Bipolar Agents, Other",Bipolar Agents
+asenapine maleate,D02995,asenapine,"Bipolar Agents, Other",Bipolar Agents
+olanzapine,D00454,olanzapine,"Bipolar Agents, Other",Bipolar Agents
+olanzapine pamoate,D06623,olanzapine,"Bipolar Agents, Other",Bipolar Agents
+quetiapine,D08456,quetiapine,"Bipolar Agents, Other",Bipolar Agents
+quetiapine fumarate,D00458,quetiapine,"Bipolar Agents, Other",Bipolar Agents
+risperidone,D00426,risperidone,"Bipolar Agents, Other",Bipolar Agents
+ziprasidone,D08687,ziprasidone,"Bipolar Agents, Other",Bipolar Agents
+ziprasidone hydrochloride,D01939,ziprasidone,"Bipolar Agents, Other",Bipolar Agents
+ziprasidone mesylate,D02100,ziprasidone,"Bipolar Agents, Other",Bipolar Agents
+acarbose,D00216,acarbose,Antidiabetic Agents,Blood Glucose Regulators
+miglitol,D00625,miglitol,Antidiabetic Agents,Blood Glucose Regulators
+pramlintide,D05594,pramlintide,Antidiabetic Agents,Blood Glucose Regulators
+pramlintide acetate,D05595,pramlintide,Antidiabetic Agents,Blood Glucose Regulators
+metformin,D04966,metformin,Antidiabetic Agents,Blood Glucose Regulators
+metformin hydrochloride,D00944,metformin,Antidiabetic Agents,Blood Glucose Regulators
+colesevelam,D07743,colesevelam,Antidiabetic Agents,Blood Glucose Regulators
+colesevelam hydrochloride,D03582,colesevelam,Antidiabetic Agents,Blood Glucose Regulators
+alogliptin benzoate,D06553,alogliptin,Antidiabetic Agents,Blood Glucose Regulators
+linagliptin,D09566,linagliptin,Antidiabetic Agents,Blood Glucose Regulators
+saxagliptin,D08996,saxagliptin,Antidiabetic Agents,Blood Glucose Regulators
+saxagliptin hydrate,D09753,saxagliptin,Antidiabetic Agents,Blood Glucose Regulators
+saxagliptin hydrochloride,D10262,saxagliptin,Antidiabetic Agents,Blood Glucose Regulators
+sitagliptin,D08516,sitagliptin,Antidiabetic Agents,Blood Glucose Regulators
+sitagliptin phosphate,D06645,sitagliptin,Antidiabetic Agents,Blood Glucose Regulators
+bromocriptine,D03165,bromocriptine,Antidiabetic Agents,Blood Glucose Regulators
+bromocriptine mesylate,D00780,bromocriptine,Antidiabetic Agents,Blood Glucose Regulators
+exenatide,D04121,exenatide,Antidiabetic Agents,Blood Glucose Regulators
+liraglutide,D06404,liraglutide,Antidiabetic Agents,Blood Glucose Regulators
+nateglinide,D01111,nateglinide,Antidiabetic Agents,Blood Glucose Regulators
+repaglinide,D00594,repaglinide,Antidiabetic Agents,Blood Glucose Regulators
+canagliflozin,D09592,canagliflozin,Antidiabetic Agents,Blood Glucose Regulators
+chlorpropamide,D00271,chlorpropamide,Antidiabetic Agents,Blood Glucose Regulators
+glimepiride,D00593,glimepiride,Antidiabetic Agents,Blood Glucose Regulators
+glipizide,D00335,glipizide,Antidiabetic Agents,Blood Glucose Regulators
+glyburide,D00336,glyburide,Antidiabetic Agents,Blood Glucose Regulators
+tolazamide,D00379,tolazamide,Antidiabetic Agents,Blood Glucose Regulators
+tolbutamide,D00380,tolbutamide,Antidiabetic Agents,Blood Glucose Regulators
+"tolbutamide sodium, sterile",D06177,tolbutamide,Antidiabetic Agents,Blood Glucose Regulators
+pioglitazone,D08378,pioglitazone,Antidiabetic Agents,Blood Glucose Regulators
+pioglitazone hydrochloride,D00945,pioglitazone,Antidiabetic Agents,Blood Glucose Regulators
+rosiglitazone,D08491,rosiglitazone,Antidiabetic Agents,Blood Glucose Regulators
+rosiglitazone maleate,D00596,rosiglitazone,Antidiabetic Agents,Blood Glucose Regulators
+diazoxide,D00294,diazoxide,Glycemic Agents,Blood Glucose Regulators
+glucagon,D00116,glucagon,Glycemic Agents,Blood Glucose Regulators
+glucagon hydrochloride,D02118,glucagon,Glycemic Agents,Blood Glucose Regulators
+insulin aspart,D04475,insulin aspart,Insulins,Blood Glucose Regulators
+insulin glulisine,D04540,insulin glulisine,Insulins,Blood Glucose Regulators
+insulin lispro,D04477,insulin lispro,Insulins,Blood Glucose Regulators
+insulin human,D03230,insulin human (regular),Insulins,Blood Glucose Regulators
+"insulin human, isophane",D04541,isophane insulin (human),Insulins,Blood Glucose Regulators
+"insulin, isophane",D04547,isophane insulin (human),Insulins,Blood Glucose Regulators
+insulin detemir,D04539,insulin detemir,Insulins,Blood Glucose Regulators
+insulin glargine,D03250,insulin glargine,Insulins,Blood Glucose Regulators
+dabigatran,D09707,dabigatran,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+dabigatran etexilate,D07144,dabigatran,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+dabigatran etexilate mesylate,D07082,dabigatran,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+apixaban,D03213,apixaban,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+rivaroxaban,D07086,rivaroxaban,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+fondaparinux sodium,D01844,fondaparinux,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+dalteparin sodium,D03353,dalteparin,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+enoxaparin sodium,D03674,enoxaparin,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+warfarin,D08682,warfarin,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+warfarin sodium,D00564,warfarin,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+warfarin potassium,D01280,warfarin,Anticoagulants,Blood Products/Modifiers/Volume Expanders
+filgrastim,D03235,filgrastim,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+pegfilgrastim,D06889,pegfilgrastim,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+sargramostim,D05803,sargramostim,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+darbepoetin alfa,D03651,darbepoetin alfa,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+epoetin alfa,D03231,epoetin alfa,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+anagrelide,D07455,anagrelide,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+anagrelide hydrochloride,D02933,anagrelide,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+anagrelide hydrochloride hydrate,D10255,anagrelide,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+eltrombopag olamine,D03978,eltrombopag olamine,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+romiplostim,D08990,romiplostim,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+plerixafor,D08971,plerixafor,Blood Formation Modifiers,Blood Products/Modifiers/Volume Expanders
+tranexamic acid,D01136,tranexamic acid,Coagulants,Blood Products/Modifiers/Volume Expanders
+clopidogrel,D07729,clopidogrel,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+clopidogrel bisulfate,D00769,clopidogrel,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+prasugrel hydrochloride,D05597,prasugrel,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+ticlopidine,D08594,ticlopidine,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+ticlopidine hydrochloride,D01028,ticlopidine,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+ticagrelor,D09017,ticagrelor,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+dipyridamole,D00302,dipyridamole,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+cilostazol,D01896,cilostazol,Platelet Modifying Agents,Blood Products/Modifiers/Volume Expanders
+clonidine,D00281,clonidine,Alpha-adrenergic Agonists,Cardiovascular Agents
+clonidine hydrochloride,D00604,clonidine,Alpha-adrenergic Agonists,Cardiovascular Agents
+guanfacine,D08031,guanfacine,Alpha-adrenergic Agonists,Cardiovascular Agents
+guanfacine hydrochloride,D00606,guanfacine,Alpha-adrenergic Agonists,Cardiovascular Agents
+methyldopa,D08205,methyldopa,Alpha-adrenergic Agonists,Cardiovascular Agents
+methyldopa,D00405,methyldopa,Alpha-adrenergic Agonists,Cardiovascular Agents
+methyldopate hydrochloride,D04997,methyldopate,Alpha-adrenergic Agonists,Cardiovascular Agents
+midodrine,D08220,midodrine,Alpha-adrenergic Agonists,Cardiovascular Agents
+midodrine hydrochloride,D01307,midodrine,Alpha-adrenergic Agonists,Cardiovascular Agents
+phenylephrine,D08365,phenylephrine,Alpha-adrenergic Agonists,Cardiovascular Agents
+phenylephrine hydrochloride,D00511,phenylephrine,Alpha-adrenergic Agonists,Cardiovascular Agents
+phenylephrine tartrate,D08366,phenylephrine,Alpha-adrenergic Agonists,Cardiovascular Agents
+phenylephrine bitartrate,D08966,phenylephrine,Alpha-adrenergic Agonists,Cardiovascular Agents
+doxazosin,D07874,doxazosin,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+doxazosin mesylate,D00608,doxazosin,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+phenoxybenzamine,D08358,phenoxybenzamine,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+phenoxybenzamine hydrochloride,D00507,phenoxybenzamine,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+prazosin,D08411,prazosin,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+prazosin hydrochloride,D00609,prazosin,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+terazosin,D08569,terazosin,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+terazosin hydrochloride,D00610,terazosin,Alpha-adrenergic Blocking Agents,Cardiovascular Agents
+benazepril,D07499,benazepril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+benazepril hydrochloride,D00620,benazepril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+captopril,D00251,captopril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+enalapril,D07892,enalapril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+enalapril maleate,D00621,enalapril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+fosinopril,D07992,fosinopril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+fosinopril sodium,D00622,fosinopril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+lisinopril,D08131,lisinopril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+lisinopril,D00362,lisinopril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+moexipril,D08225,moexipril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+moexipril hydrochloride,D00623,moexipril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+perindopril,D03753,perindopril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+perindopril erbumine,D00624,perindopril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+quinapril,D03752,quinapril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+quinapril hydrochloride,D00459,quinapril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+ramipril,D00421,ramipril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+trandolapril,D00383,trandolapril,Angiotensin-converting Enzyme (ACE) Inhibitors,Cardiovascular Agents
+azilsartan,D08864,azilsartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+azilsartan medoxomil,D08067,azilsartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+azilsartan kamedoxomil,D08865,azilsartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+candesartan,D00522,candesartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+candesartan cilexetil,D00626,candesartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+eprosartan,D04040,eprosartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+eprosartan mesylate,D02082,eprosartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+irbesartan,D00523,irbesartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+losartan,D08146,losartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+losartan potassium,D00357,losartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+olmesartan,D05246,olmesartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+olmesartan medoxomil,D01204,olmesartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+telmisartan,D00627,telmisartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+valsartan,D00400,valsartan,Angiotensin II Receptor Antagonists,Cardiovascular Agents
+amiodarone,D02910,amiodarone,Antiarrhythmics,Cardiovascular Agents
+amiodarone hydrochloride,D00636,amiodarone,Antiarrhythmics,Cardiovascular Agents
+disopyramide,D00303,disopyramide,Antiarrhythmics,Cardiovascular Agents
+disopyramide phosphate,D00637,disopyramide,Antiarrhythmics,Cardiovascular Agents
+dofetilide,D00647,dofetilide,Antiarrhythmics,Cardiovascular Agents
+dronedarone,D02537,dronedarone,Antiarrhythmics,Cardiovascular Agents
+dronedarone hydrochloride,D03914,dronedarone,Antiarrhythmics,Cardiovascular Agents
+flecainide,D07962,flecainide,Antiarrhythmics,Cardiovascular Agents
+flecainide acetate,D00638,flecainide,Antiarrhythmics,Cardiovascular Agents
+mexiletine,D08215,mexiletine,Antiarrhythmics,Cardiovascular Agents
+mexiletine hydrochloride,D00639,mexiletine,Antiarrhythmics,Cardiovascular Agents
+procainamide,D08421,procainamide,Antiarrhythmics,Cardiovascular Agents
+procainamide hydrochloride,D00477,procainamide,Antiarrhythmics,Cardiovascular Agents
+propafenone,D08435,propafenone,Antiarrhythmics,Cardiovascular Agents
+propafenone hydrochloride,D00640,propafenone,Antiarrhythmics,Cardiovascular Agents
+quinidine,D08458,quinidine,Antiarrhythmics,Cardiovascular Agents
+quinidine gluconate,D00642,quinidine,Antiarrhythmics,Cardiovascular Agents
+quinidine polygalacturonate,D00643,quinidine,Antiarrhythmics,Cardiovascular Agents
+quinidine sulfate,D02272,quinidine,Antiarrhythmics,Cardiovascular Agents
+quinidine phenylethylbarbiturate,D08459,quinidine,Antiarrhythmics,Cardiovascular Agents
+sotalol,D08525,sotalol,Antiarrhythmics,Cardiovascular Agents
+sotalol hydrochloride,D01026,sotalol,Antiarrhythmics,Cardiovascular Agents
+acebutolol,D02338,acebutolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+acebutolol hydrochloride,D00597,acebutolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+atenolol,D00235,atenolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+betaxolol,D07526,betaxolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+betaxolol hydrochloride,D00598,betaxolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+bisoprolol,D02342,bisoprolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+bisoprolol fumarate,D00634,bisoprolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+carvedilol,D00255,carvedilol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+carvedilol phosphate,D03415,carvedilol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+labetalol,D08106,labetalol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+labetalol hydrochloride,D00600,labetalol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+metoprolol,D02358,metoprolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+metoprolol tartrate,D00601,metoprolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+metoprolol succinate,D00635,metoprolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+metoprolol fumarate,D05011,metoprolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+nadolol,D00432,nadolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+nebivolol,D05127,nebivolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+nebivolol hydrochloride,D06622,nebivolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+penbutolol,D08074,penbutolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+penbutolol sulfate,D00602,penbutolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+pindolol,D00513,pindolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+propranolol,D08443,propranolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+propranolol hydrochloride,D00483,propranolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+timolol,D08600,timolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+timolol,D00378,timolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+timolol maleate,D00603,timolol,Beta-adrenergic Blocking Agents,Cardiovascular Agents
+amlodipine,D07450,amlodipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+amlodipine besylate,D00615,amlodipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+amlodipine maleate,D02914,amlodipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+felodipine,D00319,felodipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+isradipine,D00349,isradipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+nicardipine,D08270,nicardipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+nicardipine hydrochloride,D00617,nicardipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+nifedipine,D00437,nifedipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+nimodipine,D00438,nimodipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+nisoldipine,D00618,nisoldipine,Calcium Channel Blocking Agents,Cardiovascular Agents
+diltiazem,D07845,diltiazem,Calcium Channel Blocking Agents,Cardiovascular Agents
+diltiazem hydrochloride,D00616,diltiazem,Calcium Channel Blocking Agents,Cardiovascular Agents
+diltiazem malate,D03830,diltiazem,Calcium Channel Blocking Agents,Cardiovascular Agents
+verapamil,D02356,verapamil,Calcium Channel Blocking Agents,Cardiovascular Agents
+verapamil hydrochloride,D00619,verapamil,Calcium Channel Blocking Agents,Cardiovascular Agents
+acetazolamide,D00218,acetazolamide,"Diuretics, Carbonic Anhydrase Inhibitors",Cardiovascular Agents
+acetazolamide sodium,D01196,acetazolamide,"Diuretics, Carbonic Anhydrase Inhibitors",Cardiovascular Agents
+methazolamide,D00655,methazolamide,"Diuretics, Carbonic Anhydrase Inhibitors",Cardiovascular Agents
+bumetanide,D00247,bumetanide,"Diuretics, Loop",Cardiovascular Agents
+ethacrynic acid,D00313,ethacrynate/ethacrynic acid,"Diuretics, Loop",Cardiovascular Agents
+ethacrynate sodium,D04079,ethacrynate/ethacrynic acid,"Diuretics, Loop",Cardiovascular Agents
+furosemide,D00331,furosemide,"Diuretics, Loop",Cardiovascular Agents
+sodium furosemide,D07999,furosemide,"Diuretics, Loop",Cardiovascular Agents
+furosemide diolamine,D08001,furosemide,"Diuretics, Loop",Cardiovascular Agents
+torsemide,D00382,torsemide,"Diuretics, Loop",Cardiovascular Agents
+amiloride,D07447,amiloride,"Diuretics, Potassium-sparing",Cardiovascular Agents
+amiloride hydrochloride,D00649,amiloride,"Diuretics, Potassium-sparing",Cardiovascular Agents
+eplerenone,D01115,eplerenone,"Diuretics, Potassium-sparing",Cardiovascular Agents
+spironolactone,D00443,spironolactone,"Diuretics, Potassium-sparing",Cardiovascular Agents
+triamterene,D00386,triamterene,"Diuretics, Potassium-sparing",Cardiovascular Agents
+bendroflumethiazide,D00650,bendroflumethiazide,"Diuretics, Thiazide",Cardiovascular Agents
+chlorothiazide,D00519,chlorothiazide,"Diuretics, Thiazide",Cardiovascular Agents
+chlorothiazide sodium,D03471,chlorothiazide,"Diuretics, Thiazide",Cardiovascular Agents
+chlorthalidone,D00272,chlorthalidone,"Diuretics, Thiazide",Cardiovascular Agents
+hydrochlorothiazide,D00340,hydrochlorothiazide,"Diuretics, Thiazide",Cardiovascular Agents
+indapamide,D00345,indapamide,"Diuretics, Thiazide",Cardiovascular Agents
+indapamide hydrate,D06401,indapamide,"Diuretics, Thiazide",Cardiovascular Agents
+methyclothiazide,D00656,methyclothiazide,"Diuretics, Thiazide",Cardiovascular Agents
+metolazone,D00431,metolazone,"Diuretics, Thiazide",Cardiovascular Agents
+choline fenofibrate,D08890,choline fenofibrate,"Dyslipidemics, Fibric Acid Derivatives",Cardiovascular Agents
+fenofibrate,D00565,fenofibrate/fenofibric acid,"Dyslipidemics, Fibric Acid Derivatives",Cardiovascular Agents
+gemfibrozil,D00334,gemfibrozil,"Dyslipidemics, Fibric Acid Derivatives",Cardiovascular Agents
+atorvastatin,D07474,atorvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+atorvastatin calcium anhydorous,D00887,atorvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+atorvastatin calcium,D02258,atorvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+fluvastatin,D07983,fluvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+fluvastatin sodium,D00892,fluvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+lovastatin,D00359,lovastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+pitavastatin calcium,D01862,pitavastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+pitavastatin calcium hydrate,D10568,pitavastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+pravastatin,D08410,pravastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+pravastatin sodium,D00893,pravastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+rosuvastatin,D08492,rosuvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+rosuvastatin calcium,D01915,rosuvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+simvastatin,D00434,simvastatin,"Dyslipidemics, HMG CoA Reductase Inhibitors",Cardiovascular Agents
+cholestyramine resin,D02690,cholestyramine,"Dyslipidemics, Other",Cardiovascular Agents
+colesevelam,D07743,colesevelam,"Dyslipidemics, Other",Cardiovascular Agents
+colesevelam hydrochloride,D03582,colesevelam,"Dyslipidemics, Other",Cardiovascular Agents
+colestipol,D07771,colestipol,"Dyslipidemics, Other",Cardiovascular Agents
+colestipol hydrochloride,D02113,colestipol,"Dyslipidemics, Other",Cardiovascular Agents
+ezetimibe,D01966,ezetimibe,"Dyslipidemics, Other",Cardiovascular Agents
+icosapent ethyl,D01892,icosapent ethyl,"Dyslipidemics, Other",Cardiovascular Agents
+lomitapide,D09637,lomitapide,"Dyslipidemics, Other",Cardiovascular Agents
+lomitapide mesylate,D09638,lomitapide,"Dyslipidemics, Other",Cardiovascular Agents
+mipomersen sodium,D08946,mipomersen,"Dyslipidemics, Other",Cardiovascular Agents
+niacin,D00049,niacin,"Dyslipidemics, Other",Cardiovascular Agents
+omega-3-acid ethyl esters,D05255,omega-3-acid ethyl esters,"Dyslipidemics, Other",Cardiovascular Agents
+hydralazine,D08044,hydralazine,"Vasodilators, Direct-acting Arterial",Cardiovascular Agents
+hydralazine hydrochloride,D01302,hydralazine,"Vasodilators, Direct-acting Arterial",Cardiovascular Agents
+hydralazine polistirex,D04458,hydralazine,"Vasodilators, Direct-acting Arterial",Cardiovascular Agents
+minoxidil,D00418,minoxidil,"Vasodilators, Direct-acting Arterial",Cardiovascular Agents
+isosorbide dinitrate,D00516,isosorbide dinitrate,"Vasodilators, Direct-acting Arterial/Venous",Cardiovascular Agents
+isosorbide mononitrate,D00630,isosorbide mononitrate,"Vasodilators, Direct-acting Arterial/Venous",Cardiovascular Agents
+nitroglycerin,D00515,nitroglycerin,"Vasodilators, Direct-acting Arterial/Venous",Cardiovascular Agents
+aliskiren,D03208,aliskiren,"Cardiovascular Agents, Other",Cardiovascular Agents
+aliskiren fumarate,D06412,aliskiren,"Cardiovascular Agents, Other",Cardiovascular Agents
+digoxin,D00298,digoxin,"Cardiovascular Agents, Other",Cardiovascular Agents
+pentoxifylline,D00501,pentoxifylline,"Cardiovascular Agents, Other",Cardiovascular Agents
+ranolazine,D05700,ranolazine,"Cardiovascular Agents, Other",Cardiovascular Agents
+ranolazine hydrochloride,D05701,ranolazine,"Cardiovascular Agents, Other",Cardiovascular Agents
+dextroamphetamine,D03740,dextroamphetamine,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Central Nervous System Agents
+dextroamphetamine sulfate,D02078,dextroamphetamine,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Central Nervous System Agents
+lisdexamfetamine,D08130,lisdexamfetamine,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Central Nervous System Agents
+lisdexamfetamine dimesylate,D04747,lisdexamfetamine,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Central Nervous System Agents
+metamfetamine,D08187,methamphetamine,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Central Nervous System Agents
+methamphetamine hydrochloride,D02242,methamphetamine,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Central Nervous System Agents
+atomoxetine,D07473,atomoxetine,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+atomoxetine hydrochloride,D02574,atomoxetine,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+clonidine,D00281,clonidine,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+clonidine hydrochloride,D00604,clonidine,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+dexmethylphenidate,D07806,dexmethylphenidate,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+dexmethylphenidate hydrochloride,D03721,dexmethylphenidate,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+guanfacine,D08031,guanfacine,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+guanfacine hydrochloride,D00606,guanfacine,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+methylphenidate,D04999,methylphenidate,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+methylphenidate hydrochloride,D01296,methylphenidate,"Attention Deficit Hyperactivity Disorder Agents, Non- amphetamines",Central Nervous System Agents
+duloxetine,D07880,duloxetine,Fibromyalgia Agents,Central Nervous System Agents
+duloxetine hydrochloride,D01179,duloxetine,Fibromyalgia Agents,Central Nervous System Agents
+milnacipran,D08222,milnacipran,Fibromyalgia Agents,Central Nervous System Agents
+milnacipran hydrochloride,D01107,milnacipran,Fibromyalgia Agents,Central Nervous System Agents
+pregabalin,D02716,pregabalin,Fibromyalgia Agents,Central Nervous System Agents
+interferon beta-1a,D04554,interferon beta-1a,Multiple Sclerosis Agents,Central Nervous System Agents
+interferon beta-1b,D00746,interferon beta-1b,Multiple Sclerosis Agents,Central Nervous System Agents
+dalfampridine,D04127,dalfampridine,Multiple Sclerosis Agents,Central Nervous System Agents
+teriflunomide,D10172,teriflunomide,Multiple Sclerosis Agents,Central Nervous System Agents
+fingolimod hydrochloride,D04187,fingolimod,Multiple Sclerosis Agents,Central Nervous System Agents
+dimethyl fumarate,D03846,dimethyl fumarate,Multiple Sclerosis Agents,Central Nervous System Agents
+glatiramer acetate,D04318,glatiramer,Multiple Sclerosis Agents,Central Nervous System Agents
+mitoxantrone,D08224,mitoxantrone,Multiple Sclerosis Agents,Central Nervous System Agents
+mitoxantrone hydrochloride,D02166,mitoxantrone,Multiple Sclerosis Agents,Central Nervous System Agents
+natalizumab,D06886,natalizumab,Multiple Sclerosis Agents,Central Nervous System Agents
+gabapentin enacarbil,D09539,gabapentin enacarbil,"Central Nervous System, Other",Central Nervous System Agents
+tetrabenazine,D08575,tetrabenazine,"Central Nervous System, Other",Central Nervous System Agents
+riluzole,D00775,riluzole,"Central Nervous System, Other",Central Nervous System Agents
+dextromethorphan hydrobromide and quinidine sulfate,D10208,dextromethorphan/quinidine,"Central Nervous System, Other",Central Nervous System Agents
+atropine,D00113,atropine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+methylatropine nitrate,D01077,atropine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+atropine methylbromide,D03814,atropine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+atropine oxide hydrochloride,D03011,atropine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+atropine oxide,D07477,atropine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+atropine sulfate,D02069,atropine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+dicycloverine,D07820,dicyclomine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+dicyclomine hydrochloride,D00717,dicyclomine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+glycopyrrolate,D00540,glycopyrrolate,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+mepenzolate bromide,D00720,mepenzolate,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+methscopolamine bromide,D00715,methscopolamine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+scopolamine,D00138,scopolamine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+scopolamine butylbromide,D01451,scopolamine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+scopolamine hydrobromide,D02071,scopolamine,"Antispasmodics, Gastrointestinal",Gastrointestinal Agents
+cimetidine,D00295,cimetidine,Histamine2 (H2) receptor Antagonists,Gastrointestinal Agents
+cimetidine hydrochloride,D03503,cimetidine,Histamine2 (H2) receptor Antagonists,Gastrointestinal Agents
+famotidine,D00318,famotidine,Histamine2 (H2) receptor Antagonists,Gastrointestinal Agents
+nizatidine,D00440,nizatidine,Histamine2 (H2) receptor Antagonists,Gastrointestinal Agents
+ranitidine,D00422,ranitidine,Histamine2 (H2) receptor Antagonists,Gastrointestinal Agents
+ranitidine bismuth citrate,D05699,ranitidine,Histamine2 (H2) receptor Antagonists,Gastrointestinal Agents
+ranitidine hydrochloride,D00673,ranitidine,Histamine2 (H2) receptor Antagonists,Gastrointestinal Agents
+alosetron,D07129,alosetron,Irritable Bowel Syndrome Agents,Gastrointestinal Agents
+alosetron hydrochloride,D02829,alosetron,Irritable Bowel Syndrome Agents,Gastrointestinal Agents
+linaclotide,D09355,linaclotide,Irritable Bowel Syndrome Agents,Gastrointestinal Agents
+linaclotide acetate,D06612,linaclotide,Irritable Bowel Syndrome Agents,Gastrointestinal Agents
+lubiprostone,D04790,lubiprostone,Irritable Bowel Syndrome Agents,Gastrointestinal Agents
+lactulose,D00352,lactulose,Laxatives,Gastrointestinal Agents
+misoprostol,D00419,misoprostol,Protectants,Gastrointestinal Agents
+sucralfate,D00446,sucralfate,Protectants,Gastrointestinal Agents
+dexlansoprazole,D08903,dexlansoprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+esomeprazole,D07917,esomeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+esomeprazole magnesium,D01984,esomeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+esomeprazole sodium,D04056,esomeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+esomeprazole potassium,D09339,esomeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+esomeprazole strontium,D10120,esomeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+lansoprazole,D00355,lansoprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+omeprazole,D00455,omeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+omeprazole sodium,D01207,omeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+omeprazole sodium injection,D05261,omeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+omeprazole magnesium,D05259,omeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+pantoprazole,D05353,pantoprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+pantoprazole sodium,D02593,pantoprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+rabeprazole,D08463,rabeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+rabeprazole sodium,D00724,rabeprazole,Proton Pump Inhibitors,Gastrointestinal Agents
+alvimopan,D02878,alvimopan,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+crofelemer,D03605,crofelemer,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+atropine sulfate - diphenoxylate hydrochloride mixt,D00301,diphenoxylate hydrochloride and atropine sulfate,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+loperamide,D08144,loperamide,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+loperamide hydrochloride,D00729,loperamide,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+loperamide oxide,D07113,loperamide,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+methylnaltrexone bromide,D06618,methylnaltrexone,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+metoclopramide,D00726,metoclopramide,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+metoclopramide hydrochloride,D02213,metoclopramide,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+metoclopramide hydrochloride,D05008,metoclopramide,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+rifaximin,D02554,rifaximin,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+ursodiol,D00734,ursodiol,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+glutamine,D00015,glutamine,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+somatropin,D02691,somatropin,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+teduglutide,D06053,teduglutide,"Gastrointestinal Agents, Other",Gastrointestinal Agents
+mirabegron,D09535,mirabegron,"Antispasmodics, Urinary",Genitourinary Agents
+darifenacin,D03654,darifenacin,"Antispasmodics, Urinary",Genitourinary Agents
+darifenacin hydrobromide,D01699,darifenacin,"Antispasmodics, Urinary",Genitourinary Agents
+fesoterodine,D07226,fesoterodine,"Antispasmodics, Urinary",Genitourinary Agents
+fesoterodine fumarate,D08923,fesoterodine,"Antispasmodics, Urinary",Genitourinary Agents
+flavoxate,D07961,flavoxate,"Antispasmodics, Urinary",Genitourinary Agents
+flavoxate hydrochloride,D00718,flavoxate,"Antispasmodics, Urinary",Genitourinary Agents
+oxybutynin,D00465,oxybutynin,"Antispasmodics, Urinary",Genitourinary Agents
+oxybutynin chloride,D00722,oxybutynin,"Antispasmodics, Urinary",Genitourinary Agents
+solifenacin,D08522,solifenacin,"Antispasmodics, Urinary",Genitourinary Agents
+solifenacin succinate,D01269,solifenacin,"Antispasmodics, Urinary",Genitourinary Agents
+tolterodine,D00646,tolterodine,"Antispasmodics, Urinary",Genitourinary Agents
+tolterodine tartrate,D01148,tolterodine,"Antispasmodics, Urinary",Genitourinary Agents
+trospium chloride,D01103,trospium,"Antispasmodics, Urinary",Genitourinary Agents
+alfuzosin,D07124,alfuzosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+alfuzosin hydrochloride,D01692,alfuzosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+doxazosin,D07874,doxazosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+doxazosin mesylate,D00608,doxazosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+prazosin,D08411,prazosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+prazosin hydrochloride,D00609,prazosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+silodosin,D01965,silodosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+tamsulosin,D08560,tamsulosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+tamsulosin hydrochloride,D01024,tamsulosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+terazosin,D08569,terazosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+terazosin hydrochloride,D00610,terazosin,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+dutasteride,D03820,dutasteride,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+finasteride,D00321,finasteride,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+tadalafil,D02008,tadalafil,Benign Prostatic Hypertrophy Agents,Genitourinary Agents
+calcium acetate,D00931,calcium acetate,Phosphate Binders,Genitourinary Agents
+calcium acetate,D02257,calcium acetate,Phosphate Binders,Genitourinary Agents
+lanthanum carbonate,D04667,lanthanum,Phosphate Binders,Genitourinary Agents
+sevelamer,D08512,sevelamer,Phosphate Binders,Genitourinary Agents
+sevelamer hydrochloride,D01983,sevelamer,Phosphate Binders,Genitourinary Agents
+sevelamer carbonate,D06642,sevelamer,Phosphate Binders,Genitourinary Agents
+bethanechol chloride,D01000,bethanechol,"Genitourinary Agents, Other",Genitourinary Agents
+penicillamine,D00496,penicillamine,"Genitourinary Agents, Other",Genitourinary Agents
+penicillamine hydrochloride,D08330,penicillamine,"Genitourinary Agents, Other",Genitourinary Agents
+pentosan polysulfate sodium,D05428,pentosan polysulfate,"Genitourinary Agents, Other",Genitourinary Agents
+oxandrolone,D00462,oxandrolone,Anabolic Steroids,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+danazol,D00289,danazol,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+fluoxymesterone,D00327,fluoxymesterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+methyltestosterone,D00408,methyltestosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone,D00075,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone cypionate,D00957,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone enanthate,D00958,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone propionate,D00959,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone ketolaurate,D06085,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone phenylacetate,D06086,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone undecanoate,D06087,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone decanoate,D08573,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+testosterone phenylpropionate,D08574,testosterone,Androgens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol,D00105,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol valerate,D01413,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol dipropionate,D01617,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol benzoate,D01953,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol acetate,D04061,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol cypionate,D04063,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol enanthate,D04064,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol undecylate,D04065,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol hemihydrate,D07918,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estradiol 17 beta-hemisuccinate,D07919,estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+"estrogens, conjugated",D04070,"estrogens, conjugated",Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+"synthetic conjugated estrogens, b",D05987,"estrogens, conjugated synthetic",Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+"estrogens, esterified",D04071,"estrogens, esterified",Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estrone,D00067,estrone,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estrone sodium sulfate,D00312,estrone,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estropipate,D00948,estrone,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+estropipate,D00948,estropipate,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+ethinyl estradiol,D00554,ethinyl estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+ethinylestradiol propanesulfonate,D07928,ethinyl estradiol,Estrogens,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+ulipristal,D09567,ulipristal,Progesterone Agonists/Antagonists,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+ulipristal acetate,D09687,ulipristal,Progesterone Agonists/Antagonists,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+levonorgestrel,D00950,levonorgestrel,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+medroxyprogesterone,D08166,medroxyprogesterone,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+medroxyprogesterone acetate,D00951,medroxyprogesterone,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+megestrol,D08167,megestrol,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+megestrol acetate,D00952,megestrol,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+norethindrone,D00182,norethindrone,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+norethindrone acetate,D00953,norethindrone,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+norgestrel,D00954,norgestrel,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+progesterone,D00066,progesterone,Progestins,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+raloxifene,D08465,raloxifene,Selective Estrogen Receptor Modifying Agents,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+raloxifene hydrochloride,D02217,raloxifene,Selective Estrogen Receptor Modifying Agents,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+raloxifene hydrochloride hydrate,D10606,raloxifene,Selective Estrogen Receptor Modifying Agents,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+ospemifene,D08958,ospemifene,Selective Estrogen Receptor Modifying Agents,"Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)"
+methimazole,D00401,methimazole,Antithyroid Agents,"Hormonal Agents, Suppressant (Thyroid)"
+propylthiouracil,D00562,propylthiouracil,Antithyroid Agents,"Hormonal Agents, Suppressant (Thyroid)"
+icatibant acetate,D04492,icatibant,Angioedema (HAE) Agents,Immunological Agents
+mycophenolic acid,D05096,mycophenolic acid,Immune Suppressants,Immunological Agents
+mycophenolate mofetil,D00752,mycophenolic acid,Immune Suppressants,Immunological Agents
+mycophenolate mofetil hydrochloride,D05094,mycophenolic acid,Immune Suppressants,Immunological Agents
+mycophenolate sodium,D05095,mycophenolic acid,Immune Suppressants,Immunological Agents
+tacrolimus,D08556,tacrolimus,Immune Suppressants,Immunological Agents
+tacrolimus,D00107,tacrolimus,Immune Suppressants,Immunological Agents
+cyclosporine,D00184,cyclosporine,Immune Suppressants,Immunological Agents
+tofacitinib,D09970,tofacitinib,Immune Suppressants,Immunological Agents
+tofacitinib citrate,D09783,tofacitinib,Immune Suppressants,Immunological Agents
+sirolimus,D00753,sirolimus,Immune Suppressants,Immunological Agents
+mercaptopurine,D04931,mercaptopurine,Immune Suppressants,Immunological Agents
+mercaptopurine,D00161,mercaptopurine,Immune Suppressants,Immunological Agents
+abatacept,D03203,abatacept,Immune Suppressants,Immunological Agents
+anakinra,D02934,anakinra,Immune Suppressants,Immunological Agents
+everolimus,D02714,everolimus,Immune Suppressants,Immunological Agents
+methotrexate,D00142,methotrexate,Immune Suppressants,Immunological Agents
+methotrexate sodium,D02115,methotrexate,Immune Suppressants,Immunological Agents
+penicillamine,D00496,penicillamine,Immune Suppressants,Immunological Agents
+penicillamine hydrochloride,D08330,penicillamine,Immune Suppressants,Immunological Agents
+pimecrolimus,D05480,pimecrolimus,Immune Suppressants,Immunological Agents
+azathioprine,D00238,azathioprine,Immune Suppressants,Immunological Agents
+azathioprine sodium,D03033,azathioprine,Immune Suppressants,Immunological Agents
+adalimumab,D02597,adalimumab,Immune Suppressants,Immunological Agents
+certolizumab pegol,D03441,certolizumab pegol,Immune Suppressants,Immunological Agents
+etanercept,D00742,etanercept,Immune Suppressants,Immunological Agents
+golimumab,D04358,golimumab,Immune Suppressants,Immunological Agents
+infliximab,D02598,infliximab,Immune Suppressants,Immunological Agents
+"anti-human thymocyte immunoglobulin, equine",D08808,anti-thymocyte globulin,"Immunizing Agents, Passive",Immunological Agents
+"anti-human thymocyte immunoglobulin, rabbit",D09190,anti-thymocyte globulin,"Immunizing Agents, Passive",Immunological Agents
+immune globulin intravenous pentetate,D04516,immune globulin intravenous (human),"Immunizing Agents, Passive",Immunological Agents
+belimumab,D03068,belimumab,Immunomodulators,Immunological Agents
+interferon gamma-1b,D00747,"interferon gamma-1b, recombinant",Immunomodulators,Immunological Agents
+canakinumab,D09315,canakinumab,Immunomodulators,Immunological Agents
+rilonacept,D06635,rilonacept,Immunomodulators,Immunological Agents
+tocilizumab,D02596,tocilizumab,Immunomodulators,Immunological Agents
+auranofin,D00237,auranofin,Immunomodulators,Immunological Agents
+leflunomide,D00749,leflunomide,Immunomodulators,Immunological Agents
+natalizumab,D06886,natalizumab,Immunomodulators,Immunological Agents
+adsorbed diphtheria-tetanus combined toxoid,D05257,diphtheria and tetanus toxoids adsorbed (dt),Vaccines,Immunological Agents
+adsorbed diphtheria-purified pertussis-tetanus combined vaccine,D05356,diphtheria and tetanus toxoids and acellular pertussis vaccine adsorbed (dtap),Vaccines,Immunological Agents
+adsorbed diphtheria-purified pertussis-tetanus-inactivated polio combined vaccine,D10214,diphtheria and tetanus toxoids and acellular pertussis absorbed and inactivated poliovirus (dtap-ipv) vaccine,Vaccines,Immunological Agents
+haemophilus influenzae type b conjugate vaccine,D09189,haemophilus b conjugate vaccine,Vaccines,Immunological Agents
+adsorbed hepatitis b vaccine,D06475,hepatitis b virus vaccine recombinant,Vaccines,Immunological Agents
+adsorbed hepatitis b vaccine,D05324,hepatitis b virus vaccine recombinant,Vaccines,Immunological Agents
+japanese encephalitis vaccine,D05313,japanese encephalitis virus vaccine inactivated,Vaccines,Immunological Agents
+measles virus vaccine live,D06806,measles virus vaccine live,Vaccines,Immunological Agents
+freeze-dried live attenuated measles vaccine,D04866,measles virus vaccine live,Vaccines,Immunological Agents
+meningococcal polysaccharide vaccine group a,D04910,meningococcal polysaccharide vaccine,Vaccines,Immunological Agents
+meningococcal polysaccharide vaccine group c,D06415,meningococcal polysaccharide vaccine,Vaccines,Immunological Agents
+recombinant adsorbed bivalent human papillomavirus-like particle vaccine,D10212,human papillomavirus bivalent (type 16 and 18) vaccine recombinant,Vaccines,Immunological Agents
+recombinant adsorbed quadrivalent human papillomavirus virus-like particle vaccine,D10192,"human papillomavirus quadrivalent (types 6, 11, 16 and 18) vaccine recombinant",Vaccines,Immunological Agents
+poliovirus vaccine inactivated,D05543,poliovirus vaccine inactivated,Vaccines,Immunological Agents
+rabies vaccine,D06504,rabies vaccine,Vaccines,Immunological Agents
+rubella virus vaccine live,D05362,rubella virus vaccine,Vaccines,Immunological Agents
+freeze-dried live attenuated rubella vaccine,D06512,rubella virus vaccine,Vaccines,Immunological Agents
+tetanus toxoid,D06547,tetanus toxoid,Vaccines,Immunological Agents
+tetanus toxoid adsorbed,D05316,tetanus toxoid adsorbed,Vaccines,Immunological Agents
+typhoid vaccine,D06261,typhoid vaccine live oral,Vaccines,Immunological Agents
+freeze-dried live attenuated varicella vaccine,D08777,varicella virus vaccine,Vaccines,Immunological Agents
+yellow fever vaccine,D06347,yellow fever vaccine,Vaccines,Immunological Agents
+betamethasone,D00244,betamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+betamethasone sodium phosphate,D00972,betamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+betamethasone valerate,D01357,betamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+betamethasone acetate,D01402,betamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+betamethasone dipropionate,D01637,betamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+betamethasone butyrate propionate,D02032,betamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+betamethasone benzoate,D02286,betamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+budesonide,D00246,budesonide,Glucocorticoids,Inflammatory Bowel Disease Agents
+cortisone,D07749,cortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+cortisone acetate,D00973,cortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone,D00292,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone sodium phosphate,D00975,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone metasulfobenzoate sodium,D01510,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone palmitate,D01615,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone dipropionate,D01632,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone valerate,D01948,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone acetate,D02174,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone acefurate,D02591,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone beloxil,D02592,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone cipecilate,D07073,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone 21-acetate,D07796,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone isonicotinate,D07797,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone sodium hemisulfate,D07798,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone 21-tebutate,D07799,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone 21-valerate,D07800,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone phenylpropionate,D07801,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+dexamethasone phosphate,D07802,dexamethasone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone,D00088,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone acetate,D00165,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone cypionate,D00976,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone sodium phosphate,D00977,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone sodium succinate,D00978,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone succinate,D01442,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone butyrate,D01619,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone probutate,D01886,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone valerate,D02288,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone hemisuccinate,D04467,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone aceponate,D06876,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+hydrocortisone caproate,D09796,hydrocortisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+methylprednisolone,D00407,methylprednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+methylprednisolone sodium succinate,D00751,methylprednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+methylprednisolone acetate,D00979,methylprednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+methylprednisolone hemisuccinate,D05000,methylprednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+methylprednisolone sodium phosphate,D05001,methylprednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+methylprednisolone suleptanate,D05002,methylprednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+methylprednisolone aceponate,D07203,methylprednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone,D00472,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone acetate,D00980,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone sodium phosphate,D00981,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone tebutate,D00982,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone sodium succinate,D01239,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone farnesylate,D01998,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone hemisuccinate,D02156,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone valerate acetate,D03301,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone pivalate,D08412,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone sodium metazoate,D08413,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone 21-,D08414,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisolone steaglate,D08415,prednisolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisone,D00473,prednisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+prednisone acetate,D08416,prednisone,Glucocorticoids,Inflammatory Bowel Disease Agents
+triamcinolone,D00385,triamcinolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+triamcinolone acetonide,D00983,triamcinolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+triamcinolone diacetate,D00984,triamcinolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+triamcinolone hexacetonide,D00985,triamcinolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+triamcinolone acetonide sodium phosphate,D06216,triamcinolone,Glucocorticoids,Inflammatory Bowel Disease Agents
+balsalazide,D07488,balsalazide,Aminosalicylates,Inflammatory Bowel Disease Agents
+balsalazide disodium,D02715,balsalazide,Aminosalicylates,Inflammatory Bowel Disease Agents
+mesalamine,D00377,mesalamine,Aminosalicylates,Inflammatory Bowel Disease Agents
+olsalazine,D08295,olsalazine,Aminosalicylates,Inflammatory Bowel Disease Agents
+olsalazine sodium,D00727,olsalazine,Aminosalicylates,Inflammatory Bowel Disease Agents
+sulfasalazine,D00448,sulfasalazine,Sulfonamides,Inflammatory Bowel Disease Agents
+azelastine,D07483,azelastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+azelastine hydrochloride,D00659,azelastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+bepotastine,D09705,bepotastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+bepotastine besylate,D01654,bepotastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+cromolyn sodium,D00526,cromolyn,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+emedastine,D07890,emedastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+emedastine difumarate,D02249,emedastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+epinastine,D07900,epinastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+epinastine hydrochloride,D01713,epinastine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+lodoxamide,D08139,lodoxamide,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+lodoxamide ethyl,D04760,lodoxamide,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+lodoxamide tromethamine,D04762,lodoxamide,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+nedocromil,D05129,nedocromil,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+nedocromil sodium,D00527,nedocromil,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+nedocromil calcium,D05130,nedocromil,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+olopatadine,D08293,olopatadine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+olopatadine hydrochloride,D01192,olopatadine,Ophthalmic Anti-allergy Agents,Ophthalmic Agents
+apraclonidine,D07461,apraclonidine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+apraclonidine hydrochloride,D01008,apraclonidine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+brimonidine,D07540,brimonidine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+brimonidine tartrate,D02076,brimonidine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+dipivefrin,D02349,dipivefrin,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+dipivefrin hydrochloride,D01017,dipivefrin,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+betaxolol,D07526,betaxolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+betaxolol hydrochloride,D00598,betaxolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+carteolol,D07624,carteolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+carteolol hydrochloride,D00599,carteolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+levobunolol,D08115,levobunolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+levobunolol hydrochloride,D01025,levobunolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+metipranolol,D02374,metipranolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+metipranolol hydrochloride,D02081,metipranolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+timolol,D08600,timolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+timolol,D00378,timolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+timolol maleate,D00603,timolol,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+acetazolamide,D00218,acetazolamide,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+acetazolamide sodium,D01196,acetazolamide,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+brinzolamide,D00652,brinzolamide,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+dorzolamide,D07871,dorzolamide,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+dorzolamide hydrochloride,D00653,dorzolamide,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+methazolamide,D00655,methazolamide,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+echothiophate iodide,D02193,echothiophate,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+pilocarpine,D00525,pilocarpine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+pilocarpine hydrochloride,D02200,pilocarpine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+pilocarpine nitrate,D05478,pilocarpine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+pilocarpine borate,D08376,pilocarpine,Ophthalmic Antiglaucoma Agents,Ophthalmic Agents
+dexamethasone,D00292,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone sodium phosphate,D00975,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone metasulfobenzoate sodium,D01510,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone palmitate,D01615,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone dipropionate,D01632,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone valerate,D01948,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone acetate,D02174,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone acefurate,D02591,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone beloxil,D02592,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone cipecilate,D07073,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone 21-acetate,D07796,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone isonicotinate,D07797,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone sodium hemisulfate,D07798,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone 21-tebutate,D07799,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone 21-valerate,D07800,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone phenylpropionate,D07801,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+dexamethasone phosphate,D07802,dexamethasone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+difluprednate,D01266,difluprednate,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+fluocinolone acetonide,D01825,fluocinolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+loteprednol,D08147,loteprednol,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+loteprednol etabonate,D01689,loteprednol,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone,D00472,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone acetate,D00980,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone sodium phosphate,D00981,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone tebutate,D00982,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone sodium succinate,D01239,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone farnesylate,D01998,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone hemisuccinate,D02156,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone valerate acetate,D03301,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone pivalate,D08412,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone sodium metazoate,D08413,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone 21-,D08414,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+prednisolone steaglate,D08415,prednisolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+rimexolone,D05729,rimexolone,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+bromfenac,D07541,bromfenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+bromfenac sodium,D03163,bromfenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+diclofenac,D07816,diclofenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+diclofenac potassium,D00903,diclofenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+diclofenac sodium,D00904,diclofenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+diclofenac diethylamine,D07817,diclofenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+diclofenac hydroxyethylpyrrolidine,D07818,diclofenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+diclofenac calcium,D07819,diclofenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+flurbiprofen,D00330,flurbiprofen,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+flurbiprofen axetil,D01475,flurbiprofen,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+flurbiprofen sodium,D02290,flurbiprofen,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+esflurbiprofen,D10254,flurbiprofen,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+ketorolac,D08104,ketorolac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+ketorolac tromethamine,D00813,ketorolac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+nepafenac,D05143,nepafenac,Ophthalmic Anti-inflammatories,Ophthalmic Agents
+bimatoprost,D02724,bimatoprost,Ophthalmic Prostaglandin and Prostamide Analogs,Ophthalmic Agents
+latanoprost,D00356,latanoprost,Ophthalmic Prostaglandin and Prostamide Analogs,Ophthalmic Agents
+tafluprost,D06274,tafluprost,Ophthalmic Prostaglandin and Prostamide Analogs,Ophthalmic Agents
+travoprost,D01964,travoprost,Ophthalmic Prostaglandin and Prostamide Analogs,Ophthalmic Agents
+hydroxypropylcellulose,D04478,hydroxypropyl cellulose,"Ophthalmic Agents, Other",Ophthalmic Agents
+naphazoline,D08253,naphazoline,"Ophthalmic Agents, Other",Ophthalmic Agents
+naphazoline hydrochloride,D00743,naphazoline,"Ophthalmic Agents, Other",Ophthalmic Agents
+naphazoline nitrate,D01021,naphazoline,"Ophthalmic Agents, Other",Ophthalmic Agents
+cyclosporine,D00184,cyclosporine,"Ophthalmic Agents, Other",Ophthalmic Agents
+azelastine,D07483,azelastine,Antihistamines,Respiratory Tract/Pulmonary Agents
+azelastine hydrochloride,D00659,azelastine,Antihistamines,Respiratory Tract/Pulmonary Agents
+cetirizine,D07662,cetirizine,Antihistamines,Respiratory Tract/Pulmonary Agents
+cetirizine hydrochloride,D00664,cetirizine,Antihistamines,Respiratory Tract/Pulmonary Agents
+desloratadine,D03693,desloratadine,Antihistamines,Respiratory Tract/Pulmonary Agents
+levocetirizine,D07402,levocetirizine,Antihistamines,Respiratory Tract/Pulmonary Agents
+levocetirizine dihydrochloride,D08118,levocetirizine,Antihistamines,Respiratory Tract/Pulmonary Agents
+olopatadine,D08293,olopatadine,Antihistamines,Respiratory Tract/Pulmonary Agents
+olopatadine hydrochloride,D01192,olopatadine,Antihistamines,Respiratory Tract/Pulmonary Agents
+carbinoxamine,D07617,carbinoxamine,Antihistamines,Respiratory Tract/Pulmonary Agents
+carbinoxamine maleate,D01336,carbinoxamine,Antihistamines,Respiratory Tract/Pulmonary Agents
+carbinoxamine diphenyldisulfonate,D09808,carbinoxamine,Antihistamines,Respiratory Tract/Pulmonary Agents
+clemastine,D03535,clemastine,Antihistamines,Respiratory Tract/Pulmonary Agents
+clemastine fumarate,D00666,clemastine,Antihistamines,Respiratory Tract/Pulmonary Agents
+cyproheptadine,D07765,cyproheptadine,Antihistamines,Respiratory Tract/Pulmonary Agents
+cyproheptadine hydrochloride,D02234,cyproheptadine,Antihistamines,Respiratory Tract/Pulmonary Agents
+diphenhydramine,D00300,diphenhydramine,Antihistamines,Respiratory Tract/Pulmonary Agents
+diphenhydramine hydrochloride,D00669,diphenhydramine,Antihistamines,Respiratory Tract/Pulmonary Agents
+diphenhydramine salicylate,D02419,diphenhydramine,Antihistamines,Respiratory Tract/Pulmonary Agents
+diphenhydramine tannate,D03285,diphenhydramine,Antihistamines,Respiratory Tract/Pulmonary Agents
+diphenhydramine laurylsulfate,D03360,diphenhydramine,Antihistamines,Respiratory Tract/Pulmonary Agents
+diphenhydramine citrate,D03854,diphenhydramine,Antihistamines,Respiratory Tract/Pulmonary Agents
+hydroxyzine,D08054,hydroxyzine,Antihistamines,Respiratory Tract/Pulmonary Agents
+hydroxyzine hydrochloride,D00672,hydroxyzine,Antihistamines,Respiratory Tract/Pulmonary Agents
+hydroxyzine pamoate,D01096,hydroxyzine,Antihistamines,Respiratory Tract/Pulmonary Agents
+promethazine,D00494,promethazine,Antihistamines,Respiratory Tract/Pulmonary Agents
+promethazine hydrochloride,D00480,promethazine,Antihistamines,Respiratory Tract/Pulmonary Agents
+promethazine teoclate,D01242,promethazine,Antihistamines,Respiratory Tract/Pulmonary Agents
+promethazine methylenedisalicylate,D03290,promethazine,Antihistamines,Respiratory Tract/Pulmonary Agents
+promethazine maleate,D08432,promethazine,Antihistamines,Respiratory Tract/Pulmonary Agents
+promethazine hibenzate,D08768,promethazine,Antihistamines,Respiratory Tract/Pulmonary Agents
+beclomethasone dipropionate,D00689,beclomethasone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+budesonide,D00246,budesonide,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+ciclesonide,D01703,ciclesonide,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+flunisolide,D00324,flunisolide,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+flunisolide acetate,D04214,flunisolide,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+fluticasone,D07981,fluticasone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+fluticasone propionate,D01708,fluticasone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+fluticasone furoate,D06315,fluticasone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+mometasone,D08227,mometasone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+mometasone furoate,D00690,mometasone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+mometasone furoate hydrate,D03325,mometasone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+triamcinolone,D00385,triamcinolone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+triamcinolone acetonide,D00983,triamcinolone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+triamcinolone diacetate,D00984,triamcinolone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+triamcinolone hexacetonide,D00985,triamcinolone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+triamcinolone acetonide sodium phosphate,D06216,triamcinolone,"Anti-inflammatories, Inhaled Corticosteroids",Respiratory Tract/Pulmonary Agents
+montelukast,D08229,montelukast,Antileukotrienes,Respiratory Tract/Pulmonary Agents
+montelukast sodium,D00529,montelukast,Antileukotrienes,Respiratory Tract/Pulmonary Agents
+zafirlukast,D00411,zafirlukast,Antileukotrienes,Respiratory Tract/Pulmonary Agents
+zileuton,D00414,zileuton,Antileukotrienes,Respiratory Tract/Pulmonary Agents
+aclidinium bromide,D08837,aclidinium,"Bronchodilators, Anticholinergic",Respiratory Tract/Pulmonary Agents
+ipratropium bromide,D02212,ipratropium,"Bronchodilators, Anticholinergic",Respiratory Tract/Pulmonary Agents
+tiotropium bromide hydrate,D01929,tiotropium,"Bronchodilators, Anticholinergic",Respiratory Tract/Pulmonary Agents
+albuterol,D02147,albuterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+albuterol sulfate,D00683,albuterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+arformoterol,D07463,arformoterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+arformoterol tartrate,D02981,arformoterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+ephedrine,D00124,ephedrine,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+ephedrine hydrochloride,D01386,ephedrine,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+ephedrine sulfate,D04018,ephedrine,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+epinephrine,D00095,epinephrine,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+epinephrine hydrochloride,D00996,epinephrine,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+epinephrine bitartrate,D02149,epinephrine,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+formoterol,D07990,formoterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+formoterol fumarate,D01373,formoterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+formoterol fumarate hydrate,D05277,formoterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+indacaterol,D09318,indacaterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+indacaterol maleate,D09319,indacaterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+levalbuterol hydrochloride,D02281,levalbuterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+levalbuterol sulfate,D04701,levalbuterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+levalbuterol tartrate,D04703,levalbuterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+orciprenaline,D08300,metaproterenol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+metaproterenol polistirex,D04954,metaproterenol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+metaproterenol sulfate,D00685,metaproterenol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+salmeterol,D05792,salmeterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+salmeterol xinafoate,D00687,salmeterol,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+terbutaline,D08570,terbutaline,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+terbutaline sulfate,D00688,terbutaline,"Bronchodilators, Sympathomimetic",Respiratory Tract/Pulmonary Agents
+ivacaftor,D09916,ivacaftor,Cystic Fibrosis Agents,Respiratory Tract/Pulmonary Agents
+tobramycin,D00063,tobramycin dry-powder inhaler,Cystic Fibrosis Agents,Respiratory Tract/Pulmonary Agents
+tobramycin sulfate,D02542,tobramycin dry-powder inhaler,Cystic Fibrosis Agents,Respiratory Tract/Pulmonary Agents
+cromolyn sodium,D00526,cromolyn,Mast Cell Stabilizers,Respiratory Tract/Pulmonary Agents
+aminophylline,D00227,aminophylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+aminophylline hydrate,D05429,aminophylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+dyphylline,D00691,dyphylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+theophylline,D00371,theophylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+theophylline sodium acetate,D01712,theophylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+theophylline,D06103,theophylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+theophylline sodium glycinate,D06104,theophylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+diisobutylaminobenzoyloxypropyl theophylline,D09806,theophylline,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+roflumilast,D05744,roflumilast,"Phosphodiesterase Inhibitors, Airways Disease",Respiratory Tract/Pulmonary Agents
+ambrisentan,D07077,ambrisentan,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+bosentan,D07538,bosentan,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+bosentan,D01227,bosentan,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+macitentan,D10135,macitentan,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+sildenafil,D08514,sildenafil,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+sildenafil citrate,D02229,sildenafil,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+tadalafil,D02008,tadalafil,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+epoprostenol,D00106,epoprostenol,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+epoprostenol sodium,D01337,epoprostenol,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+iloprost,D02721,iloprost,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+iloprost tromethamine,D08065,iloprost,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+treprostinil,D06213,treprostinil,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+treprostinil monosodium salt,D08628,treprostinil,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+riociguat,D09572,riociguat,Pulmonary Antihypertensives,Respiratory Tract/Pulmonary Agents
+acetylcysteine,D00221,acetylcysteine,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+acetylcysteine sodium salt,D07554,acetylcysteine,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+budesonide - formoterol fumarate dihydrate mixt,D09595,budesonide/formoterol fumarate,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+fluticasone furoate - vilanterol trifenatate mixt,D10501,fluticasone furoate/vilanterol trifenatate,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+salmeterol xinafoate - fluticasone propionate mixt,D08699,fluticasone propionate/salmeterol,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+tetryzoline,D08578,tetrahydrozoline,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+tetrahydrozoline nitrate,D00756,tetrahydrozoline,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+tetrahydrozoline hydrochloride,D01023,tetrahydrozoline,"Respiratory Tract Agents, Other",Respiratory Tract/Pulmonary Agents
+flurazepam,D00329,flurazepam,GABA Receptor Modulators,Sleep Disorder Agents
+flurazepam hydrochloride,D00695,flurazepam,GABA Receptor Modulators,Sleep Disorder Agents
+flurazepam hydrochloride,D01408,flurazepam,GABA Receptor Modulators,Sleep Disorder Agents
+temazepam,D00370,temazepam,GABA Receptor Modulators,Sleep Disorder Agents
+eszopiclone,D02624,eszopiclone,GABA Receptor Modulators,Sleep Disorder Agents
+zaleplon,D00530,zaleplon,GABA Receptor Modulators,Sleep Disorder Agents
+zolpidem,D08690,zolpidem,GABA Receptor Modulators,Sleep Disorder Agents
+zolpidem tartrate,D00706,zolpidem,GABA Receptor Modulators,Sleep Disorder Agents
+armodafinil,D03215,armodafinil,"Sleep Disorders, Other",Sleep Disorder Agents
+doxepin,D07875,doxepin,"Sleep Disorders, Other",Sleep Disorder Agents
+doxepin hydrochloride,D00814,doxepin,"Sleep Disorders, Other",Sleep Disorder Agents
+modafinil,D01832,modafinil,"Sleep Disorders, Other",Sleep Disorder Agents
+ramelteon,D02689,ramelteon,"Sleep Disorders, Other",Sleep Disorder Agents
+sodium oxybate,D05866,sodium oxybate,"Sleep Disorders, Other",Sleep Disorder Agents
+deferasirox,D03669,deferasirox,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+deferiprone,D07416,deferiprone,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+penicillamine,D00496,penicillamine,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+penicillamine hydrochloride,D08330,penicillamine,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+sodium polystyrene sulfonate,D03263,sodium polystyrene sulfonate,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+succimer,D00572,succimer,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+tolvaptan,D01213,tolvaptan,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+trientine hydrochloride,D00736,trientine,Electrolyte/Mineral Modifiers,Therapeutic Nutrients/Minerals/Electrolytes
+ammonium chloride,D01139,ammonium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+ammonium carbonate,D02919,ammonium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+ammonium phosphate,D02921,ammonium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+ammonium sulfate,D08853,ammonium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+carglumic acid,D07130,carglumic acid,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+chromic chloride,D03479,chromic,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+chromic chloride cr 51,D03480,chromic,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+chromic phosphate cr 51,D03481,chromic,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+chromic phosphate p 32,D03482,chromic,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium fluoride,D00943,fluoride,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+silver diammine fluoride,D01502,fluoride,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium fluoride f 18,D05860,fluoride,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+stannous fluoride,D05919,fluoride,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium aluminometasilicate,D03242,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium aluminum silicate,D04833,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium l-aspartate,D02026,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium carbonate,D01446,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium chloride,D04834,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium citrate,D03265,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium gluconate,D04835,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium hydroxide,D00731,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium oxide,D01167,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium phosphate,D04836,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium salicylate,D00827,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium silicate,D04839,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium sulfate,D01108,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium stearate,D02189,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+magnesium trisilicate,D03271,magnesium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+manganese chloride,D04852,manganese,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+manganese gluconate,D04853,manganese,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+manganese sulfate,D04854,manganese,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium acetate,D01154,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium bicarbonate,D02077,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium carbonate,D02038,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium chloride,D02060,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium citrate,D05578,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium gluconate,D01298,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+"potassium phosphate, monobasic",D02050,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+"potassium phosphate, dibasic",D02403,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium metaphosphate,D05582,potassium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+potassium citrate - sodium citrate hydrate mixt,D05624,potassium citrate and sodium citrate,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+selenium sulfide,D05815,selenium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium acetate,D01779,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium bicarbonate,D01203,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+dried sodium carbonate,D05283,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium carbonate hydrate,D01780,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium chloride,D02056,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+isotonic sodium chloride solution,D05352,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium lactate,D02183,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+sodium ferric gluconate complex,D05859,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+"sodium phosphate, monobasic",D04400,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+"sodium phosphate, dibasic",D05869,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
+dibasic sodium phosphate hydrate,D06389,sodium,Electrolyte/Mineral Replacement,Therapeutic Nutrients/Minerals/Electrolytes
