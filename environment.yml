@@ -1,4 +1,4 @@
-name: IMU_class_2020
+name: IMU_Machine_Learning
 channels:
   - plotly
   - anaconda
